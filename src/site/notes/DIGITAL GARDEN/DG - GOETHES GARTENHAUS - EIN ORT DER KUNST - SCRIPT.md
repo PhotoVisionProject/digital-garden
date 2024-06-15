@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/dg-goethes-gartenhaus-ein-ort-der-kunst-script/","title":"GOETHES GARTENHAUS - EIN ORT DER KUNST","tags":["scripts","myscripts","EndlessLoop","ENDLESSLOOP/THREE"]}
+{"dg-publish":true,"permalink":"/digital-garden/dg-goethes-gartenhaus-ein-ort-der-kunst-script/","title":"GOETHES GARTENHAUS - EIN ORT DER KUNST","tags":["scripts","myscripts","EndlessLoop","ENDLESSLOOP/THREE"],"noteIcon":""}
 ---
 
 ---
