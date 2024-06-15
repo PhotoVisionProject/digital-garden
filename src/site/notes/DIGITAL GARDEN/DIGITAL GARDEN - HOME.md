@@ -13,11 +13,11 @@
 
 ---
 
-#### <span style="background:#e2725b">**Willkommen im Digital Garden von Theodor (Doc) Yemenis**</span>
+
+#### <span style="color:#e2725b;"><strong>Willkommen im Digital Garden von Theodor (Doc) Yemenis</strong></span>
 
 
-
-Dieser Ort ist der kreative Knotenpunkt meines PhotoVisionProjects – ein auf Obsidian basierender digitaler Raum, der als Experimentierfeld für spontane Ideen und innovative Inhalte dient. Hier teile ich Einblicke in meine Arbeit und Gedankenwelten, die ich online zur Diskussion und Weiterentwicklung präsentiere.
+Dieser Ort ist der kreative Knotenpunkt meines [PhotoVisionProjects](www.photovisionproject.com) – ein auf Obsidian basierender digitaler Raum, der als Experimentierfeld für spontane Ideen und innovative Inhalte dient. Hier teile ich Einblicke in meine Arbeit und Gedankenwelten, die ich online zur Diskussion und Weiterentwicklung präsentiere.
 
 Ich bin Theodor (Doc) Yemenis, ein freischaffender filmischer Flaneur und Theoretiker aus Hamburg, Deutschland. Meine Arbeit ist eine Symbiose aus visuellen Techniken und Medien, die sich von analoger Fotografie über experimentelle Filmproduktion bis hin zu generativer Kunst erstreckt. Mit meinen Projekten strebe ich danach, Geschichten zu erzählen, die bewegen und Menschen zu inspirieren, die Grenzen ihrer eigenen Kreativität zu erweitern.
 
