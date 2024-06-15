@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden-home/","title":"DIGITAL GARDEN - HOME","tags":["DigitalGarden","DigitalContent","DigitalCreator","gardenEntry"]}
+{"dg-publish":true,"permalink":"/digital-garden-home/","title":"DIGITAL GARDEN - HOME","tags":["DigitalGarden","DigitalContent","DigitalCreator","gardenEntry"],"noteIcon":""}
 ---
 
 
@@ -8,6 +8,9 @@
 ----
 # DIGITAL GARDEN - HOME
 ----
+
+![DIGITAL GARDEN - HOME-20240615231827144.jpg](/img/user/999%20attachements/DIGITAL%20GARDEN%20-%20HOME-20240615231827144.jpg)
+
 
 **Willkommen im Digital Garden von Theodor (Doc) Yemenis**
 
