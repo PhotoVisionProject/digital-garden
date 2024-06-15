@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/digital-garden-home/","title":"DIGITAL GARDEN - HOME","tags":["DigitalGarden","DigitalContent","DigitalCreator","gardenEntry","gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/digital-garden/digital-garden-home/","title":"DIGITAL GARDEN - HOME","tags":["DigitalGarden","DigitalContent","DigitalCreator","gardenEntry"],"noteIcon":""}
 ---
 
 
@@ -13,7 +13,7 @@
 
 ---
 
-<span style="background:#ff4d4f">**Willkommen im Digital Garden von Theodor (Doc) Yemenis**</span>
+#### <span style="background:#e2725b">**Willkommen im Digital Garden von Theodor (Doc) Yemenis**</span>
 
 
 
