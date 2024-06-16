@@ -11,6 +11,8 @@
 
 
 ![DIGITAL GARDEN - HOME-20240616113500965.jpg](/img/user/999%20attachements/DIGITAL%20GARDEN%20-%20HOME-20240616113500965.jpg)
+
+
 ---
 
 #### <span style="color:#e2725b;"><strong>Willkommen im Digital Garden von Theodor (Doc) Yemenis</strong></span>
