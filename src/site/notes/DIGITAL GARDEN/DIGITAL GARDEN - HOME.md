@@ -31,6 +31,7 @@ Hier ist eine kurze Auswahl von Ideen und Konzepten, an denen ich zurzeit arbeit
 ### **SKETCHES, SCRIPTS AND PROJECTIONS**
 
 - [ ] [[DIGITAL GARDEN/DG - PROCESS IS MESSY\|DG - PROCESS IS MESSY]]
+- [ ] [[DIGITAL GARDEN/DG - BERLIN - ANGELUS NOVUS\|DG - BERLIN - ANGELUS NOVUS]]
 - [ ] [[DIGITAL GARDEN/DG - GOETHES GARTENHAUS - EIN ORT DER KUNST - SCRIPT\|DG - GOETHES GARTENHAUS - EIN ORT DER KUNST - SCRIPT]]
 
 
@@ -39,6 +40,7 @@ Hier ist eine kurze Auswahl von Ideen und Konzepten, an denen ich zurzeit arbeit
 - [ ] [[DIGITAL GARDEN/DG - What I Read\|DG - What I Read]]
 
 
+---
 
 ### RETURN TO MY WEBSITE
 
