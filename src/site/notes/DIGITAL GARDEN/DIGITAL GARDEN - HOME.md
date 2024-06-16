@@ -34,7 +34,7 @@ Hier ist eine kurze Auswahl von Ideen und Konzepten, an denen ich zurzeit arbeit
 - [ ] [[DIGITAL GARDEN/DG - GOETHES GARTENHAUS - EIN ORT DER KUNST - SCRIPT\|DG - GOETHES GARTENHAUS - EIN ORT DER KUNST - SCRIPT]]
 
 
-### TOOLS AND SOURCES
+### **TOOLS AND SOURCES**
 
 - [ ] [[DIGITAL GARDEN/DG - What I Read\|DG - What I Read]]
 
