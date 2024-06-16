@@ -15,7 +15,7 @@
 
 ---
 
-#### <span style="color:#e2725b;"><strong>Willkommen im Digital Garden von Theodor (Doc) Yemenis</strong></span>
+### <span style="color:#e2725b;"><strong>Willkommen im Digital Garden von Theodor (Doc) Yemenis</strong></span>
 
 
 Dieser Ort ist der kreative Knotenpunkt meines [PhotoVisionProjects](www.photovisionproject.com) – ein auf Obsidian basierender digitaler Raum, der als Experimentierfeld für spontane Ideen und innovative Inhalte dient. Hier teile ich Einblicke in meine Arbeit und Gedankenwelten, die ich online zur Diskussion und Weiterentwicklung präsentiere.
@@ -26,11 +26,15 @@ Ich bin Theodor (Doc) Yemenis, ein freischaffender filmischer Flaneur und Theore
 
 Die hier geteilten Notizen sind Fenster in einen kreativen Prozess, der sich in ständiger Entwicklung befindet. Sie bieten Einblicke in unfertige Skizzen und Entwürfe – sie sind weder vollständig, noch abgeschlossen oder final. Vielmehr sind es Momentaufnahmen eines fortlaufenden kreativen Vorgangs, der sich mit jedem Tag weiterentfaltet und neue Formen annimmt.
 
-Entdecken Sie eine kurze Auswahl von Ideen, an denen ich zurzeit arbeite. Jeder Link führt Sie tiefer in die Welt meiner kreativen Explorationen:
+Hier ist eine kurze Auswahl von Ideen und Konzepten, an denen ich zurzeit arbeite (klicken Sie auf die Links, um mehr zu lesen). 
 
----
-
-Eine kurze Auswahl von Ideen und Konzepten, an denen ich zurzeit arbeite (klicken Sie auf die Links, um mehr zu lesen):
+### **SKETCHES, SCRIPTS AND PROJECTIONS**
 
 - [ ] [[DIGITAL GARDEN/DG - PROCESS IS MESSY\|DG - PROCESS IS MESSY]]
 - [ ] [[DIGITAL GARDEN/DG - GOETHES GARTENHAUS - EIN ORT DER KUNST - SCRIPT\|DG - GOETHES GARTENHAUS - EIN ORT DER KUNST - SCRIPT]]
+
+
+### TOOLS AND SOURCES
+
+- [ ] [[DIGITAL GARDEN/DG - What I Read\|DG - What I Read]]
+
