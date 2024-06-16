@@ -12,6 +12,10 @@
 
 Die Lektüre des Buches **"Show Your Work!"** von Austin Kleon war für mich äußerst inspirierend. Es half mir, Aspekte des kreativen Prozesses zu erkennen, die ich intuitiv schon immer wusste, jedoch unsystematisch und unsicher in meinem Unterbewusstsein schlummerten.
 
+
+
+![DG - PROCESS IS MESSY-20240616125714782.jpg](/img/user/999%20attachements/DG%20-%20PROCESS%20IS%20MESSY-20240616125714782.jpg)
+
 ## SYNOPSIS
 ---
 
