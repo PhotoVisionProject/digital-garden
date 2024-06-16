@@ -13,9 +13,13 @@ In meinem experimentellen filmischen Essay "Die Geheimnisse des Gartenhauses –
 ---
 
 
-![DG - GOETHES GARTENHAUS - EIN ORT DER KUNST - SCRIPT-20240615205037861.jpg](/img/user/999%20attachements/DG%20-%20GOETHES%20GARTENHAUS%20-%20EIN%20ORT%20DER%20KUNST%20-%20SCRIPT-20240615205037861.jpg)                                                                                                                             
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/F9IhiaPG63U?si=xD8NMZC0cXRnPK6X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 
+
+---
 ## Die Geheimnisse des Gartenhaus - Ein Ort der Kunst (KURZFASSUNG)
 ---
 
@@ -33,13 +37,6 @@ Die Erkundung von Goethes Gartenhaus an der Ilm in Weimar bot mir tiefere Einbli
 ---
 
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/F9IhiaPG63U?si=xD8NMZC0cXRnPK6X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-
-
----
-
 **Erkundung von Goethes Gartenhaus: Eine Reise in seinen kreativen Prozess**
 
 Ich habe Goethes Gartenhaus an der Ilm in Weimar besucht und erkundet, den Ort, an dem er Inspiration und die notwendige Ruhe fand und viele seiner Werke schrieb.
@@ -51,6 +48,12 @@ Mein Leitmotiv für diese Episode war es, den kreativen Prozess von Goethe und s
 Während meiner Erkundung versuchte ich, so viele Facetten wie möglich von Goethes komplexer und multidimensionaler Arbeitsweise zu erfassen. Ich wollte vor allem verstehen, wie er die Atmosphäre von Orten nutzte, um seine Werke zu komponieren. Das Gartenhaus an der Ilm bot eine exzellente Möglichkeit, dies zu versuchen und Einsicht in die Umgebung zu gewinnen, die Goethe wesentlich beeinflusst hat.
 
 Die Ergebnisse meiner Erkundung von Goethes Gartenhaus waren eine tiefere Wertschätzung für seinen kreativen Prozess, ein besseres Verständnis für die Umgebung – sowohl den physischen Ort als auch die kulturelle Atmosphäre und den sogenannten "Zeitgeist", der seine Werke geprägt hat – und vielleicht einige neue Erkenntnisse über seine Arbeitsweise bei der Komposition seiner berühmten Werke, besonders "Faust". Insgesamt war meine Reise eine Reise der Erkundung und Inspiration, die mir einen Einblick in die Welt und den kreativen Geist von Johann Wolfgang von Goethe gab.
+
+---
+
+
+![DG - GOETHES GARTENHAUS - EIN ORT DER KUNST - SCRIPT-20240616151545679.jpg](/img/user/999%20attachements/DG%20-%20GOETHES%20GARTENHAUS%20-%20EIN%20ORT%20DER%20KUNST%20-%20SCRIPT-20240616151545679.jpg)
+
 
 ---
 
@@ -154,6 +157,12 @@ ERZÄHLER (V.O.)
 Ich hoffe, dass jeder, der hierher kommt, auch nur einen Hauch der Inspiration verspürt, die einst von diesem Ort ausging und die Welt erhellte. Was ich gesucht habe – den “Goethe-Code” zu entziffern – fand ich in der Art und Weise, wie er Natur, Kunst und Wissenschaft miteinander verband. Sein Vermächtnis lebt heute weiter, nicht nur in seinen Werken, sondern auch in der Art, wie wir die Welt betrachten und verstehen.
 
 **ENDE FADE OUT**
+
+---
+
+
+![DG - GOETHES GARTENHAUS - EIN ORT DER KUNST - SCRIPT-20240615205037861.jpg](/img/user/999%20attachements/DG%20-%20GOETHES%20GARTENHAUS%20-%20EIN%20ORT%20DER%20KUNST%20-%20SCRIPT-20240615205037861.jpg)                                                                                                                             
+
 
 
 
