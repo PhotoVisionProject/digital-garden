@@ -38,7 +38,12 @@ Hier ist eine kurze Auswahl von Ideen und Konzepten, an denen ich zurzeit arbeit
 
 - [ ] [[DIGITAL GARDEN/DG - What I Read\|DG - What I Read]]
 
+
+
 ### RETURN TO MY WEBSITE
+
+![DIGITAL GARDEN - HOME-20240616144023685.jpg](/img/user/999%20attachements/DIGITAL%20GARDEN%20-%20HOME-20240616144023685.jpg)
+
 
 - [ ] [PhotoVisionProject](http://www.photovisionproject.com)
 
