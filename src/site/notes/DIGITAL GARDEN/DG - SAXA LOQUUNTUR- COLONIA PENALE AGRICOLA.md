@@ -10,7 +10,10 @@
 ## Uncanny Spaces - Ein Zwischenbericht
 ---
 
-#RHODOS #SAXALOQUUNTUR 
+
+![DG - SAXA LOQUUNTUR- COLONIA PENALE AGRICOLA-20240617183016901.jpg](/img/user/999%20attachements/DG%20-%20SAXA%20LOQUUNTUR-%20COLONIA%20PENALE%20AGRICOLA-20240617183016901.jpg)
+
+#RHODOS #SAXALOQUUNTUR #UncannySpaces 
 
 
 Unheimliche Räume. Dies ist ein erster Bericht und eine Arbeitsprobe für das filmische Skript einer experimentellen Dokumentation über verlassene und geisterhafte Orte auf der Insel Rhodos in Griechenland. 
@@ -97,3 +100,7 @@ Dieser Monolog reflektiert die Reise des Protagonisten Marco und seine Auseinand
 
 ---
 
+
+![DG - SAXA LOQUUNTUR- COLONIA PENALE AGRICOLA-20240617183125840.jpg](/img/user/999%20attachements/DG%20-%20SAXA%20LOQUUNTUR-%20COLONIA%20PENALE%20AGRICOLA-20240617183125840.jpg)
+
+![DG - SAXA LOQUUNTUR- COLONIA PENALE AGRICOLA-20240617183136983.jpg](/img/user/999%20attachements/DG%20-%20SAXA%20LOQUUNTUR-%20COLONIA%20PENALE%20AGRICOLA-20240617183136983.jpg)
