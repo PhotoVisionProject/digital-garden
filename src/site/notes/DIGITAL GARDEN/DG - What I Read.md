@@ -24,6 +24,7 @@ Hier ist das mentale Logbuch meiner intellektuellen Reise.
 
 **2024**
 
+- Manfred Frank, **Die unendliche Fahrt - Ein Motiv und sein Text.** Suhrkamp 1979. 
 - Paul Auster, **BAUMGARTNER** (Roman). Rowohlt 2023. 
 - Paul Auster, **THE BROOKLYN FOLLIES** (A Novel). NY 2006. 
 - Austin Kleon, **SHOW YOUR WORK!: 10 Ways To Share Your Creativity And Get Discovered.** 2014.  
@@ -36,9 +37,9 @@ Hier ist das mentale Logbuch meiner intellektuellen Reise.
 
 - Paul Millerd, **The Pathless Path - Imagining a New Story for Work and Life.** 2022.  
 - Nicolas Cole, **The Art and Business of Online Writing**. 2020. 
-- Michel Houellebecq, **Karte und Gebiet.** Dumont 2012. (*****)
+- Michel Houellebecq, **Karte und Gebiet.** Dumont 2012. ( ***** )
 - Paul de Man, **Allegorien des Lesens**. Suhrkamp 1988. 
-- Gustav Rene Hocke, **Die Welt als Labyrinth - Manierismus in der europäischen Kunst und Literatur.** Rowohlt 1991. (*****)
+- Gustav Rene Hocke, **Die Welt als Labyrinth - Manierismus in der europäischen Kunst und Literatur.** Rowohlt 1991. ( ***** )
 - Emily Thomas, **The Meaning of Travel.** Oxford University Press 2022. 
 - Florian Huber, **Durch Lesen sich selbst versthen - Zum Verhältnis von Literatur und IIdentitätsbildung**. Transcript 2008. 
 
@@ -77,7 +78,7 @@ Hier ist das mentale Logbuch meiner intellektuellen Reise.
 **2020**
 
 - Richard Koeck **Cine-scapes Cinematic Spaces in Architecture and Cities** (Routledge, 2013). *****
--  Knut Ebeling, Stefan Altekamp (Hsgb.) **Die Aktualität des Archäologischen in Wissenschaft, Medien und Künsten** (Fischer, 2004)
+- Knut Ebeling, Stefan Altekamp (Hsgb.) **Die Aktualität des Archäologischen in Wissenschaft, Medien und Künsten** (Fischer, 2004)
 - Knut Ebeling, **Saxa Loquuntur! : Freuds Archäologie der Hysterie**  (in Freuds Referenzen), Kadmos 2012. *********
 - Sigmund Freud **Das Unbehagen in der Kultur** (Wien, 1930). 
     
@@ -121,87 +122,87 @@ Hier ist das mentale Logbuch meiner intellektuellen Reise.
 
 **2017**
 
--  Giorgio de Chirico, "**Monsieur Dudron**". Bern 2000. 
--  Giorgio de Chirico, "**Das Geheimnis der Arkade** - Erinnerungen und Reflexionen." Schirmer/Mosel 2011.
--  Wolfgang Ullrich, "**Der kreative Mensch.**" Residenz Verlag 2016. 
--  Alan Moore, "DO/DESIGN Why beauty is key to everything. 2016."
--  Wolfgang Ullrich, "Die Geschichte der Unschärfe." Wagenbach 2002. 
--  Milan Kundera, "**Die Kunst des Romans - Essay.**" Carl Hanser Verlag 1987. 
--  Pascal Mercier, **"Nachtzug nach Lissabon".** ( Roman ) Carl Hanser Verlag, 2004.  
--  Louis Begley, "Der Mann, der zu spät kam". ( Roman )  Suhrkamp Verlag, Frankfurt/M 1996. 
--  Marc Aurel, _**"Wege zu sich Selbst"**_ (Tusculum 1990). 
+- Giorgio de Chirico, "**Monsieur Dudron**". Bern 2000. 
+- Giorgio de Chirico, "**Das Geheimnis der Arkade** - Erinnerungen und Reflexionen." Schirmer/Mosel 2011.
+- Wolfgang Ullrich, "**Der kreative Mensch.**" Residenz Verlag 2016. 
+- Alan Moore, "DO/DESIGN Why beauty is key to everything. 2016."
+- Wolfgang Ullrich, "Die Geschichte der Unschärfe." Wagenbach 2002. 
+- Milan Kundera, "**Die Kunst des Romans - Essay.**" Carl Hanser Verlag 1987. 
+- Pascal Mercier, **"Nachtzug nach Lissabon".** ( Roman ) Carl Hanser Verlag, 2004.  
+- Louis Begley, "Der Mann, der zu spät kam". ( Roman )  Suhrkamp Verlag, Frankfurt/M 1996. 
+- Marc Aurel, _**"Wege zu sich Selbst"**_ (Tusculum 1990). 
 - Susan Sontag, **"Über Fotografie" (** Fischer 1980/1977 ). 
--  Ellen Lupton, "Graphic Design THINKING: beyond brainstorming". 2011. 
--  Graeme Gilloch, **"Myth & Metropolis - Walter Benjamin and the City"**. Polity Press, 1996.
--  Antonio Tabucchi, _"Lissabonner Requiem"._ Hanser 1991. 
--  Wim Wenders, _**"A Sense of Place".**_ Verlag der Autoren, 2005. 
--  Rüdiger Safranski, **_"Ein Meister aus Deutschland. Heidegger und seine Zeit"._** Hanser 1994. 
--  Susan Buck-Morss, _The Dialectis of Seeing - Walter Benjamin and the Arcades Project (_1989). 
+- Ellen Lupton, "Graphic Design THINKING: beyond brainstorming". 2011. 
+- Graeme Gilloch, **"Myth & Metropolis - Walter Benjamin and the City"**. Polity Press, 1996.
+- Antonio Tabucchi, _"Lissabonner Requiem"._ Hanser 1991. 
+- Wim Wenders, _**"A Sense of Place".**_ Verlag der Autoren, 2005. 
+- Rüdiger Safranski, **_"Ein Meister aus Deutschland. Heidegger und seine Zeit"._** Hanser 1994. 
+- Susan Buck-Morss, _The Dialectis of Seeing - Walter Benjamin and the Arcades Project (_1989). 
 - Rüdiger Safranski, _**Goethe - Kunstwerk des Lebens: Biografie**_ ( Hanser 2013 ). 
 - Rüdiger Safranski, _**Romantik: Eine deutsche Affäre**_ ( Hanser 2007 ). 
 
 **2016**
 
--   Stuart Elden, _Mapping the Presend: Heidegger, Foucault and the project of a Spatial History._ 
--   Christoper Woodward, **_In Ruins._**   
--   Bruce Chatwin, _"Der Traum des Ruhelosen"._ Fischer 1998. 
--   Frank Berzbach, _"Die Kunst ein kreatives Leben zu führen"._ Verlag Hermann Schmidt Mainz 2013. 
--   Andrej Tarkowskij, **_"Die versieglte Zeit"._** Ulstein.
--   F. Nietzsche, "Die Geburt der Tragödie". Insel Verlag 1987. 
--   Bernd Stiegler, "Bilder der Photographie".  Suhrkamp 2006. 
--   Alain de Botton, "Die Kunst des Reisens", 2002. 
--   Wim Wenders, "Die Pixel des Paul Cezanne - Blicke auf Künstler". Verlag der Autoren 2015. 
--   Wim Wenders, **_"Die Logik der Bilder - Essays und Gespräche"._** Verlag der Autoren 1988. 
--   Wim Wenders, "The Act of Seeing - Texte und Gespräche". Verlag der Autoren 1992. 
--   Cees Nooteboom / Eddy Posthuma de Boer, **"Die Kunst des Reisens".**  Schirmer und Mosel Verlag, München 2004. 
--   Vee Speers, "Bordello: the art of seduction".  LensCulture 2006. 
--   David Campany, _"The Open Road: Photography and the American Roadtrip"._ 2014. 
--   Richard Rorty, "Der Spiegel der Natur - Eine Kritik der Philosophie". Suhrkamp ( 1979 ) 1981. 
--   Daniel Arasse "Guck doch mal hin!", Dumont 2002. 
--   Robert Polidori "Chronophagia". Steidl 2014. 
--   Walter Benjamin,  Das passagen-Werk. Suhrkap 1982. 
--   Seymour Chatman / Paul Duncan ( Hg. ) Michelangelo Antonioni - Sämtliche Filme. Taschen 2004. 
--   Peter Buchka,  Augen kann man nicht kaufen. Wim Wenders und seine Filme ( 1983 ). 
--   Anna Katharina Eißel,   Er-fahrung neuer Horizonte - Reise und Wahrnehmung in Filmen von Wom Wenders ( 2007 ).
--   Anselm Kiefer, Mathias Döpfner,   Kunst und Leben Mythen und Tod. Quadriga 2012. 
--   Daniel Arasse,   **Anselm Kiefer.** Schirmer/Mosel 2015.
--    Julio Cortazar, Teufelsgeifer (Blow-Up)   ( 1981 ). 
--    Dylan Trigg,  On the role of depersonalization in Merleau-Ponty  ( 2015 )
--    Gregory Paschalidis, Images of History and the Optical Unconscious ( 2004 ).  
--    Lena Wetenkamp, Poetologie der Erinnerung  - Lisbon Story von Wim Wenders  ( 2014 ).
--    Susan Sontag,  **"Über Fotografie"**. 
--    Marcus Andrew Hurttig,   Die Entfesselte Antike - Aby Warburg und die Geburt der Pathosformel
--    Joseph Leo Koerner,  **"Die Suche nach dem Labyrinth"**, Suhrkamp 1983.      
--    Aby Warburg,   Werke in einem Band , Suhrkamp. 
--    Martin Heidegger,  Die Kunst und der Raum. Erker 1969.    
--    Eduard Beaucamp,  Ästhetische Bußpredigten. 
--    Walter Benjamin,  Berliner Kindheit um 1900. 
--    Stefan Ripplinger,  Vergebliche Kunst, Matthes und Seitz Berlin 2016. 
--    Nelson Goodman,  Weisen der Welterzeugung  ( 1978 ) Suhrkamp 1984. 
--    Peter Bürger,  Theorie der Avantgarde
--    Michel Haar, L'Ouevre d'art (  Das Kunstwerk ).
--    Walter Benjamin,  **Das Kunstwerk im Zeitalter seiner technischen Reproduzierbarkeit.** 
--    Bernd Roeck,  _Mörder, Maler und Mäzene - Piero della Francescas Geißelung._
--    Anthony Vidler,  **_Warped Space - Art, Architecture and Anxiety in Modern Culture_**  ( MIT 2002). 
--    Michel de Certeau, "The Practice of everyday life". 1984. 
--    Graeme Gilloch,  _**Myth and Metropolis - Walter Benjamin and the City**_ ( 1997 ).
--    Henri Lefebvre, _La Production de l’espace_  (The Production of Space). 1974.
--   Guy Debord, **_The Society of the Spectacle_ ( La société du spectacle)** (1967).
--    Hilde van Gelder and Helen Westgeest,  _Photography Theory._
--    * Die Lesbarkeit der Kunst
+- Stuart Elden, _Mapping the Presend: Heidegger, Foucault and the project of a Spatial History._ 
+- Christoper Woodward, **_In Ruins._**   
+- Bruce Chatwin, _"Der Traum des Ruhelosen"._ Fischer 1998. 
+- Frank Berzbach, _"Die Kunst ein kreatives Leben zu führen"._ Verlag Hermann Schmidt Mainz 2013. (*****)
+- Andrej Tarkowskij, **_"Die versieglte Zeit"._** Ulstein.
+- F. Nietzsche, "Die Geburt der Tragödie". Insel Verlag 1987. 
+- Bernd Stiegler, "Bilder der Photographie".  Suhrkamp 2006. 
+- Alain de Botton, "Die Kunst des Reisens", 2002. 
+- Wim Wenders, "Die Pixel des Paul Cezanne - Blicke auf Künstler". Verlag der Autoren 2015. 
+- Wim Wenders, **_"Die Logik der Bilder - Essays und Gespräche"._** Verlag der Autoren 1988. 
+- Wim Wenders, "The Act of Seeing - Texte und Gespräche". Verlag der Autoren 1992. 
+- Cees Nooteboom / Eddy Posthuma de Boer, **"Die Kunst des Reisens".**  Schirmer und Mosel Verlag, München 2004. 
+- Vee Speers, "Bordello: the art of seduction".  LensCulture 2006. 
+- David Campany, _"The Open Road: Photography and the American Roadtrip"._ 2014. 
+- Richard Rorty, "Der Spiegel der Natur - Eine Kritik der Philosophie". Suhrkamp ( 1979 ) 1981. 
+- Daniel Arasse "Guck doch mal hin!", Dumont 2002. 
+- Robert Polidori "Chronophagia". Steidl 2014. 
+- Walter Benjamin,  Das passagen-Werk. Suhrkap 1982. 
+- Seymour Chatman / Paul Duncan ( Hg. ) Michelangelo Antonioni - Sämtliche Filme. Taschen 2004. 
+- Peter Buchka,  Augen kann man nicht kaufen. Wim Wenders und seine Filme ( 1983 ). 
+- Anna Katharina Eißel,   Er-fahrung neuer Horizonte - Reise und Wahrnehmung in Filmen von Wom Wenders ( 2007 ).
+- Anselm Kiefer, Mathias Döpfner,   Kunst und Leben Mythen und Tod. Quadriga 2012. 
+- Daniel Arasse,   **Anselm Kiefer.** Schirmer/Mosel 2015.
+- Julio Cortazar, Teufelsgeifer (Blow-Up)   ( 1981 ). 
+- Dylan Trigg,  On the role of depersonalization in Merleau-Ponty  ( 2015 )
+- Gregory Paschalidis, Images of History and the Optical Unconscious ( 2004 ).  
+- Lena Wetenkamp, Poetologie der Erinnerung  - Lisbon Story von Wim Wenders  ( 2014 ).
+- Susan Sontag,  **"Über Fotografie"**. 
+- Marcus Andrew Hurttig,   Die Entfesselte Antike - Aby Warburg und die Geburt der Pathosformel
+- Joseph Leo Koerner,  **"Die Suche nach dem Labyrinth"**, Suhrkamp 1983.      
+- Aby Warburg,   Werke in einem Band , Suhrkamp. 
+- Martin Heidegger,  Die Kunst und der Raum. Erker 1969.    
+- Eduard Beaucamp,  Ästhetische Bußpredigten. 
+- Walter Benjamin,  Berliner Kindheit um 1900. 
+- Stefan Ripplinger,  Vergebliche Kunst, Matthes und Seitz Berlin 2016. 
+- Nelson Goodman,  Weisen der Welterzeugung  ( 1978 ) Suhrkamp 1984. 
+- Peter Bürger,  Theorie der Avantgarde
+- Michel Haar, L'Ouevre d'art (  Das Kunstwerk ).
+- Walter Benjamin,  **Das Kunstwerk im Zeitalter seiner technischen Reproduzierbarkeit.** 
+- Bernd Roeck,  _Mörder, Maler und Mäzene - Piero della Francescas Geißelung._
+- Anthony Vidler,  **_Warped Space - Art, Architecture and Anxiety in Modern Culture_**  ( MIT 2002). 
+- Michel de Certeau, "The Practice of everyday life". 1984. 
+- Graeme Gilloch,  _**Myth and Metropolis - Walter Benjamin and the City**_ ( 1997 ).
+- Henri Lefebvre, _La Production de l’espace_  (The Production of Space). 1974.
+- Guy Debord, **_The Society of the Spectacle_ ( La société du spectacle)** (1967).
+- Hilde van Gelder and Helen Westgeest,  _Photography Theory._
+- * Die Lesbarkeit der Kunst
 
 **2015**
 
--    Roland Barthes,  _**"Die helle Kammer ( Camera Lucida )"**_. 
--    J.J. Winckelmann,  "Gedanken über die Nachahmung der griechischen Werke in der Malerei und Bildhauerkunst"
--    C. G. Jung, "Von Traum und Selbsterkenntnis - Einsichten und Weisheiten", 1986. 
--    Peter Burke,  Die Renaissance , Wagenbach 1990. 
--    Heinrich Wölfflin,  Renaissance und Barock. 
--    Michael Baxandall,  Painting and Experience in Fifteenth-Century Italy. 
--    Jeannot Simmen,  Ruinen-Faszination  in der Graphik von 16. Jh. bis in die Gegenwart. 
--    Manfred Frank,  Die unendliche Fahrt - Ein Motiv und sein Text  Suhrkamp 1979. 
--    Günter Metken,  _**Spurensicherung.**_ Verlag der Kunst 1996.
--    Cees Nooteboom, Paradies verloren. Suhrkamp 2005. 
+- Roland Barthes,  _**"Die helle Kammer ( Camera Lucida )"**_. 
+- J.J. Winckelmann,  "Gedanken über die Nachahmung der griechischen Werke in der Malerei und Bildhauerkunst"
+- C. G. Jung, "Von Traum und Selbsterkenntnis - Einsichten und Weisheiten", 1986. 
+- Peter Burke,  Die Renaissance , Wagenbach 1990. 
+- Heinrich Wölfflin,  Renaissance und Barock. 
+- Michael Baxandall,  Painting and Experience in Fifteenth-Century Italy. 
+- Jeannot Simmen,  Ruinen-Faszination  in der Graphik von 16. Jh. bis in die Gegenwart. 
+- Manfred Frank,  **Die unendliche Fahrt - Ein Motiv und sein Text.** Suhrkamp 1979. 
+- Günter Metken,  _**Spurensicherung.**_ Verlag der Kunst 1996.
+- Cees Nooteboom, Paradies verloren. Suhrkamp 2005. 
 
 **2012 - 2014**
 
