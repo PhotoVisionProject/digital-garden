@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/dg-saxa-loquuntur-colonia-penale-agricola/","title":"DG - SAXA LOQUUNTUR- COLONIA PENALE AGRICOLA","tags":["Rhodos","RHODOS23","ExploringRhodos","RhodosMysteries","Geschichte","history","historia","Vergangenheit","memory","trauma","Erinnerung","Erinnerungsarbeit","ReisenSchreibenSehenEntwerfen","Verfall","ÄsthetikDesVerfalls","#OldSilkFactory","#AlteSeidenfabrik","unconscious","UncoveringSecrets","#Synchronizitäten","synchronicities","#ColoniaSanMarco","ColoniaPenaleAgricola","Seidenspinnerei","VLOG24AD04"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/digital-garden/dg-saxa-loquuntur-colonia-penale-agricola/","title":"DG - SAXA LOQUUNTUR- COLONIA PENALE AGRICOLA","tags":["Rhodos","RHODOS23","ExploringRhodos","RhodosMysteries","Geschichte","history","historia","Vergangenheit","memory","trauma","Erinnerung","Erinnerungsarbeit","ReisenSchreibenSehenEntwerfen","Verfall","ÄsthetikDesVerfalls","#OldSilkFactory","#AlteSeidenfabrik","unconscious","UncoveringSecrets","#Synchronizitäten","synchronicities","#ColoniaSanMarco","ColoniaPenaleAgricola","Seidenspinnerei","VLOG24AD04","DG2024AD05"],"noteIcon":""}
 ---
 
 
