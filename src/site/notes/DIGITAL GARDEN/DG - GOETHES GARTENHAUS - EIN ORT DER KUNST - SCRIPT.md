@@ -133,7 +133,7 @@ Goethes Ansatz war sowohl intuitiv als auch analytisch. Er folgte einem inneren 
 
 ---
 
-### SZENE 4 - **Das Vermächtnis: Resonanz der Kreativität**
+### SZENE 3 - **Das Vermächtnis: Resonanz der Kreativität**
 ---
 
 ERZÄHLER (V.O.)
