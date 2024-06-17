@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/digital-garden-home/","title":"DIGITAL GARDEN - HOME","tags":["DigitalGarden","DigitalContent","DigitalCreator","gardenEntry","gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/digital-garden/digital-garden-home/","title":"DIGITAL GARDEN - HOME","tags":["DigitalGarden","DigitalContent","DigitalCreator","gardenEntry"],"noteIcon":""}
 ---
 
 
@@ -29,13 +29,16 @@ Die hier geteilten Notizen sind Fenster in einen kreativen Prozess, der sich in 
 Hier ist eine kurze Auswahl von Ideen und Konzepten, an denen ich zurzeit arbeite (klicken Sie auf die Links, um mehr zu lesen). 
 
 ### **SKETCHES, SCRIPTS AND PROJECTIONS**
+---
 
-- [ ] [[DIGITAL GARDEN/DG - PROCESS IS MESSY\|DG - PROCESS IS MESSY]]
-- [ ] [[DIGITAL GARDEN/DG - BERLIN - ANGELUS NOVUS\|DG - BERLIN - ANGELUS NOVUS]]
+- [ ] [[DIGITAL GARDEN/DG - SAXA LOQUUNTUR- COLONIA PENALE AGRICOLA\|DG - SAXA LOQUUNTUR- COLONIA PENALE AGRICOLA]]
 - [ ] [[DIGITAL GARDEN/DG - GOETHES GARTENHAUS - EIN ORT DER KUNST - SCRIPT\|DG - GOETHES GARTENHAUS - EIN ORT DER KUNST - SCRIPT]]
+- [ ] [[DIGITAL GARDEN/DG - BERLIN - ANGELUS NOVUS\|DG - BERLIN - ANGELUS NOVUS]]
+- [ ] [[DIGITAL GARDEN/DG - PROCESS IS MESSY\|DG - PROCESS IS MESSY]]
 
 
 ### **TOOLS AND SOURCES**
+---
 
 - [ ] [[DIGITAL GARDEN/DG - What I Read\|DG - What I Read]]
 
