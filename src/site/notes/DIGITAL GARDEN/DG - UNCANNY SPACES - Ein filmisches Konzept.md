@@ -10,6 +10,14 @@
 ![DG - UNCANNY SPACES - Ein filmisches Konzept-20240618114329438.jpg](/img/user/999%20attachements/DG%20-%20UNCANNY%20SPACES%20-%20Ein%20filmisches%20Konzept-20240618114329438.jpg)
 
 ## **Erkundung der Identität durch Geschichte und Psychoanalyse: Eine filmische Reise nach Rhodos**
+---
+
+
+Die Manifestation der hier vorgestellten Ideen als filmisches Skript findet man im folgenden Beitrag:
+
+- [[DIGITAL GARDEN/DG - SAXA LOQUUNTUR- COLONIA PENALE AGRICOLA\|DG - SAXA LOQUUNTUR- COLONIA PENALE AGRICOLA]]
+
+---
 
 #### **SYNOPSIS**
 
