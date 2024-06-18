@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/dg-uncanny-spaces-ein-filmisches-konzept/","title":"DG - UNCANNY SPACES - Ein filmisches Konzept","tags":["RHODOSCODE","Rhodos","SAXALOQUUNTUR","Seidenspinnerei","AlteSeidenfabrik","RHODOS22","RHODOS21","RHODOS23","filmic/method","filmic/concepts","UncannySpaces","uncanny","unheimlich"]}
+{"dg-publish":true,"permalink":"/digital-garden/dg-uncanny-spaces-ein-filmisches-konzept/","title":"DG - UNCANNY SPACES - Ein filmisches Konzept","tags":["RHODOSCODE","Rhodos","SAXALOQUUNTUR","Seidenspinnerei","AlteSeidenfabrik","RHODOS22","RHODOS21","RHODOS23","filmic/method","filmic/concepts","UncannySpaces","uncanny","unheimlich","#DG2024AD06"]}
 ---
 
 
