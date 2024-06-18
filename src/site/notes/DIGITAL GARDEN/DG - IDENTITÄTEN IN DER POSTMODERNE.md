@@ -56,7 +56,12 @@ Das Konzept des EXILS symbolisiert das Gefühl des Verlorenseins und der Entfrem
 
 Identitäten in der Postmoderne sind ein komplexes Geflecht aus Kreativität, apriorischen Obsessionen und intrinsischen Leitmotiven. Durch das Erkennen und Verstehen dieser Elemente können wir die volle Bandbreite unseres kreativen Ausdrucks entfalten und Identitäten schaffen, die sowohl persönlich erfüllend als auch gesellschaftlich relevant sind.
 
+---
 
+Ein Beispiel für die Transformation und Entwicklung einer fiktiven kreativen Identität findet sich in meinen anderen Beiträgen:
+
+- [ ] [[DIGITAL GARDEN/DG - SAXA LOQUUNTUR- COLONIA PENALE AGRICOLA\|DG - SAXA LOQUUNTUR- COLONIA PENALE AGRICOLA]]
+- [ ] [[DIGITAL GARDEN/DG - UNCANNY SPACES - Ein filmisches Konzept\|DG - UNCANNY SPACES - Ein filmisches Konzept]]
 
 ---
 
