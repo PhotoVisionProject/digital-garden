@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/digital-garden-home/","title":"DIGITAL GARDEN - HOME","tags":["DigitalGarden","DigitalContent","DigitalCreator","gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/digital-garden/digital-garden-home/","title":"DIGITAL GARDEN - HOME","tags":["DigitalGarden","DigitalContent","DigitalCreator","gardenEntry"]}
 ---
 
 
@@ -31,6 +31,7 @@ Hier ist eine kurze Auswahl von Ideen und Konzepten, an denen ich zurzeit arbeit
 ### **SKETCHES, SCRIPTS AND PROJECTIONS**
 ---
 
+- [ ] [[DIGITAL GARDEN/DG - UNCANNY SPACES - Ein filmisches Konzept\|DG - UNCANNY SPACES - Ein filmisches Konzept]]
 - [ ] [[DIGITAL GARDEN/DG - SAXA LOQUUNTUR- COLONIA PENALE AGRICOLA\|DG - SAXA LOQUUNTUR- COLONIA PENALE AGRICOLA]]
 - [ ] [[DIGITAL GARDEN/DG - GOETHES GARTENHAUS - EIN ORT DER KUNST - SCRIPT\|DG - GOETHES GARTENHAUS - EIN ORT DER KUNST - SCRIPT]]
 - [ ] [[DIGITAL GARDEN/DG - BERLIN - ANGELUS NOVUS\|DG - BERLIN - ANGELUS NOVUS]]
