@@ -9,6 +9,9 @@
 ## Proömium - Identitäten in der Postmoderne
 ---
 
+
+![DG - IDENTITÄTEN IN DER POSTMODERNE-20240618182846298.jpg](/img/user/999%20attachements/DG%20-%20IDENTIT%C3%84TEN%20IN%20DER%20POSTMODERNE-20240618182846298.jpg)
+
 Bei meiner Untersuchungen der Mechanismen, Routinen und Rollen der Kreativität in unseren postmodernen/postkapitalistischen Gesellschaften, ertappe ich mich als reflektierender visueller Künstler  immer wieder dabei, auf zentrale Kategorien der Mythologie, der Psychoanalyse sowie Kernfragen der Identitätsbildung und des Lebenswegs zurückzufallen. Obwohl ich keine definitive Erklärung für diese Tendenz habe, warum dies so sei, doch bemerke ich, dass meine filmischen Konzepte häufig auf diesen "elementaren Mustern" zurückgreifen.
 
 Dieser Essay widmet sich der Untersuchung, wie “Apriori Obsessionen” und intrinsische Leitmotive Identitäten in der Postmoderne formen und den kreativen Prozess beeinflussen. Er berücksichtigt dabei zusätzliche Konzepte wie Labyrinthos, Palimpsesta, Lebenskünstler, Hybridität und Exile.
