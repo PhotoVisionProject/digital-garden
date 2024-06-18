@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/dg-berlin-angelus-novus/","title":"DG - BERLIN - ANGELUS NOVUS","tags":["travel","journey","BERLIN","BERLIN22","cinescapes/BERLIN","CITYLAB","lifestyle","LEBENSWEG","flaneur","Flaneur/Lifestyle","VISIONLAB","cinescapes","cityscapes","BERLIN20","BERLIN18","Urbanist","BERLIN12","historia","#Historie","Geschichte","ENDLESSLOOP","ENDLESSLOOP/TWO","VLOG24AD","VLOG24AD06"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/digital-garden/dg-berlin-angelus-novus/","title":"DG - BERLIN - ANGELUS NOVUS","tags":["travel","journey","BERLIN","BERLIN22","cinescapes/BERLIN","CITYLAB","lifestyle","LEBENSWEG","flaneur","Flaneur/Lifestyle","VISIONLAB","cinescapes","cityscapes","BERLIN20","BERLIN18","Urbanist","BERLIN12","historia","#Historie","Geschichte","ENDLESSLOOP","ENDLESSLOOP/TWO","VLOG24AD","VLOG24AD06"]}
 ---
 
 ----

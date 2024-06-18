@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/dg-what-i-read/","title":"What I Read - Books and Lectures","tags":["books","LectureNotes","reading","WhatIRead","CreativeBookshelf","LiteraryExploration","BookLoverJourney","ReadersPerspective","DieReiseDesWissens","ReadingList"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/digital-garden/dg-what-i-read/","title":"What I Read - Books and Lectures","tags":["books","LectureNotes","reading","WhatIRead","CreativeBookshelf","LiteraryExploration","BookLoverJourney","ReadersPerspective","DieReiseDesWissens","ReadingList"]}
 ---
 
 

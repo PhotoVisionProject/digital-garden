@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/dg-process-is-messy/","title":"PROCESS IS MESSY","tags":["process","creativity","creativity/PROCESS","creativity/CODE","ProcessIsMessy","AustinKleon","ShowYourWork","creativeprocess"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/digital-garden/dg-process-is-messy/","title":"PROCESS IS MESSY","tags":["process","creativity","creativity/PROCESS","creativity/CODE","ProcessIsMessy","AustinKleon","ShowYourWork","creativeprocess"]}
 ---
 
 

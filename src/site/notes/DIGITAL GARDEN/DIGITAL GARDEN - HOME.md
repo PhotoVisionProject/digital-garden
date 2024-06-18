@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/digital-garden-home/","title":"DIGITAL GARDEN - HOME","tags":["DigitalGarden","DigitalContent","DigitalCreator","gardenEntry"]}
+{"dg-publish":true,"permalink":"/digital-garden/digital-garden-home/","title":"DIGITAL GARDEN - HOME","tags":["DigitalGarden","DigitalContent","DigitalCreator","#DG2024AD00","gardenEntry"]}
 ---
 
 
@@ -33,7 +33,7 @@ Hier ist eine kurze Auswahl von Ideen und Konzepten, an denen ich zurzeit arbeit
 
 - [ ] [[DIGITAL GARDEN/DG - UNCANNY SPACES - Ein filmisches Konzept\|DG - UNCANNY SPACES - Ein filmisches Konzept]]
 - [ ] [[DIGITAL GARDEN/DG - SAXA LOQUUNTUR- COLONIA PENALE AGRICOLA\|DG - SAXA LOQUUNTUR- COLONIA PENALE AGRICOLA]]
-- [ ] [[DIGITAL GARDEN/DG - GOETHES GARTENHAUS - EIN ORT DER KUNST - SCRIPT\|DG - GOETHES GARTENHAUS - EIN ORT DER KUNST - SCRIPT]]
+- [ ] [[DIGITAL GARDEN/DG - GOETHES GARTENHAUS - EIN ORT DER KUNST\|DG - GOETHES GARTENHAUS - EIN ORT DER KUNST]]
 - [ ] [[DIGITAL GARDEN/DG - BERLIN - ANGELUS NOVUS\|DG - BERLIN - ANGELUS NOVUS]]
 - [ ] [[DIGITAL GARDEN/DG - PROCESS IS MESSY\|DG - PROCESS IS MESSY]]
 
