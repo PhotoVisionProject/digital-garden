@@ -7,6 +7,7 @@
 ---
 
 
+![DG - DANZIG - A FLOWING PALIMPSEST-20240808222753957.jpg](/img/user/999%20attachements/DG%20-%20DANZIG%20-%20A%20FLOWING%20PALIMPSEST-20240808222753957.jpg)
 ## IDEA / CONCEPT
 ---
 
@@ -29,6 +30,9 @@ By intertwining personal narratives, historical accounts, and visual storytellin
 
 ## Danzig - A Flowing Palimpsest (SCRIPT)
 ---
+
+
+![DG - DANZIG - A FLOWING PALIMPSEST-20240808222830953.jpg](/img/user/999%20attachements/DG%20-%20DANZIG%20-%20A%20FLOWING%20PALIMPSEST-20240808222830953.jpg)
 
 **A filmic refection on Danzig**
 
