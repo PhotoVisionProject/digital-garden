@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/dg-what-i-read/","title":"What I Read - Books and Lectures","tags":["books","LectureNotes","reading","WhatIRead","CreativeBookshelf","LiteraryExploration","BookLoverJourney","ReadersPerspective","DieReiseDesWissens","ReadingList"]}
+{"dg-publish":true,"permalink":"/digital-garden/dg-what-i-read/","title":"DG - What I Read?","tags":["books","LectureNotes","reading","WhatIRead","CreativeBookshelf","LiteraryExploration","BookLoverJourney","ReadersPerspective","DieReiseDesWissens","ReadingList"]}
 ---
 
 
 ----
-# DG - What I Read 
+# DG - What I Read? 
 ---
 
 
