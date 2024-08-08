@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/dg-process-is-messy/","title":"PROCESS IS MESSY","tags":["process","creativity","creativity/PROCESS","creativity/CODE","ProcessIsMessy","AustinKleon","ShowYourWork","creativeprocess"]}
+{"dg-publish":true,"permalink":"/digital-garden/dg-process-is-messy/","title":"DG - PROCESS IS MESSY","tags":["process","creativity","creativity/process","creativity/CODE","ProcessIsMessy","AustinKleon","ShowYourWork","CreativeProcess"]}
 ---
 
 
 ----
-# PROCESS IS MESSY
+# DG - PROCESS IS MESSY
 ----
 
 - **THINK ABOUT THE CREATIVE PROCESS** 
@@ -117,7 +117,7 @@ Meine Reisen und die Erkundung neuer Orte spielen weiterhin eine zentrale Rolle,
 ## Die neue Identität als reisender Autor und Filmemacher
 ---
 
-#newperspectives #NeueIdentität #identity/concept #NewIdentity #TheodorYemenis/biography #TheodorYemenis/Lifestyle
+#NewPerspectives #NeueIdentität #identity/concept #NewIdentity #TheodorYemenis/biography #TheodorYemenis/Lifestyle
 
 Meine Perspektive und Methoden sind die eines reisenden Autors und Filmemachers. Reisen an verschiedene Destinationen, das essayistische und intuitive Schreiben, die analogen und digitalen Methoden und Techniken der fotografischen und filmischen Darstellung sowie die Werkzeuge und Methoden der neuen Technologien und KI gehören zu meiner täglichen kreativen Routine.
 
