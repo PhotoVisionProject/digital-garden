@@ -24,6 +24,10 @@ Hier ist das mentale Logbuch meiner intellektuellen Reise.
 
 **2024**
 
+- Jean-Pierre Montier, **Henri Cartier-Bresson - Seine Kunst - Sein Leben.** Schirmer/Mosel 1997. 
+- John Berger, **Das Sichtbare und das Verborgene.** Hanser 1990. 
+- Jörg Trempler, **SCHINKELS MOTIVE.** Matthes & Seitz Berlin 2007. 
+- Erik Forssman, **Karl Friedrich Schinkel - Bauwerke und Baugedanken.** Schnell & Steiner; 1. Edition (1981).
 - Manfred Frank, **Die unendliche Fahrt - Ein Motiv und sein Text.** Suhrkamp 1979. 
 - Paul Auster, **BAUMGARTNER** (Roman). Rowohlt 2023. 
 - Paul Auster, **THE BROOKLYN FOLLIES** (A Novel). NY 2006. 
