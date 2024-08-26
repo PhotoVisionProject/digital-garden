@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/digital-garden-home/","title":"DIGITAL GARDEN - HOME","tags":["DigitalGarden","DigitalContent","DigitalCreator","#DG2024AD00","gardenEntry"]}
+{"dg-publish":true,"permalink":"/digital-garden/digital-garden-home/","title":"DIGITAL GARDEN - HOME","tags":["DIGITALGARDEN","DigitalContent","DigitalCreator","#DG2024AD00","gardenEntry"]}
 ---
 
 
@@ -31,6 +31,7 @@ Hier ist eine kurze Auswahl von Ideen und Konzepten, an denen ich zurzeit arbeit
 ### **SKETCHES, SCRIPTS AND PROJECTIONS**
 ---
 
+- [ ] [[DIGITAL GARDEN/DG - WARWISCH - EIN RESONANZRAUM FÜR DIE SEELE\|DG - WARWISCH - EIN RESONANZRAUM FÜR DIE SEELE]]
 - [ ] [[DIGITAL GARDEN/DG - DANZIG - A FLOWING PALIMPSEST\|DG - DANZIG - A FLOWING PALIMPSEST]]
 - [ ] [[DIGITAL GARDEN/DG - IDENTITÄTEN IN DER POSTMODERNE\|DG - IDENTITÄTEN IN DER POSTMODERNE]]
 - [ ] [[DIGITAL GARDEN/DG - UNCANNY SPACES - Ein filmisches Konzept\|DG - UNCANNY SPACES - Ein filmisches Konzept]]
@@ -45,10 +46,12 @@ Hier ist eine kurze Auswahl von Ideen und Konzepten, an denen ich zurzeit arbeit
 
 - [ ] [[DIGITAL GARDEN/DG - What I Read\|DG - What I Read]]
 
-
 ---
 
 ### RETURN TO MY WEBSITE
+---
+
+- [ ] [PhotoVisionProject](http://www.photovisionproject.com)
 
 ![DIGITAL GARDEN - HOME-20240616144023685.jpg](/img/user/999%20attachements/DIGITAL%20GARDEN%20-%20HOME-20240616144023685.jpg)
 
