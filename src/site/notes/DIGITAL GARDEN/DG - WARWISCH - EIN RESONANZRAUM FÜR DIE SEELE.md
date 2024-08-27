@@ -14,6 +14,12 @@ Nur 20 Kilometer südöstlich vom Herzen Hamburgs liegt Warwisch, ein Ortsteil v
 
 In meinem Film über Warwisch erkunde ich diesen besonderen Ort als Refugium und Raum der Erneuerung. Die Hütten, die den wechselnden Wasserständen trotzen, stehen sinnbildlich für die Widerstandskraft des menschlichen Geistes. Warwisch bietet eine Flucht aus der Hektik des urbanen Lebens – ein Ort der Reinigung, Transformation und Inspiration, an dem neue Visionen entstehen und das Leben neu gedacht werden kann.
 
+## WARWISCH - RESONANZRAUM FÜR DIE SEELE (VIDEO)
+---
+
+View the video on my YouTube channel:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eO3fg7WiRKA?si=tliSOWVcNVvsnPeW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## WARWISCH - RESONANZ UND VERWANDLUNG  (SCRIPT)
 ---
