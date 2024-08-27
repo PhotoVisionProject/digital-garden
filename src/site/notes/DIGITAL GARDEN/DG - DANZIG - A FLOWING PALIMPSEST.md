@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/dg-danzig-a-flowing-palimpsest/","title":"DG - DANZIG - A FLOWING PALIMPSEST","tags":["travel","journey","CITYLAB","lifestyle","LEBENSWEG","FLANEUR","FLANEUR/Lifestyle","VISIONLAB","CINESCAPES","cityscapes","URBANIST","BERLIN12","HISTORIA","#Historie","Geschichte","ENDLESSLOOP","ENDLESSLOOP/TWO","VLOG24AD","Danzig","GDANSK24","DANZIG24","DANZIG24/Leitmotives","EPIPHANEIA","ENIGMA","VLOG24AD05","VLOG24AD05A","VLOG24AD05B","DG2024AD08"]}
+{"dg-publish":true,"permalink":"/digital-garden/dg-danzig-a-flowing-palimpsest/","title":"DG - DANZIG - A FLOWING PALIMPSEST","tags":["travel","journey","CITYLAB","lifestyle","LEBENSWEG","FLANEUR","FLANEUR/Lifestyle","VISIONLAB","CINESCAPES","cityscapes","URBANIST","BERLIN12","HISTORIA","#Historie","Geschichte","ENDLESSLOOP","ENDLESSLOOP/TWO","VLOG24AD","Danzig","GDANSK24","DANZIG24","DANZIG24/Leitmotives","EPIPHANEIA","ENIGMA","VLOG24AD05","VLOG24AD05A","VLOG24AD05B","DG2024AD08","urbandrifts"]}
 ---
 
 ----
