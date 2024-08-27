@@ -7,25 +7,33 @@
 # DG - UNCANNY SPACES - Ein filmisches Konzept
 ---
 
-![DG - UNCANNY SPACES - Ein filmisches Konzept-20240618114329438.jpg](/img/user/999%20attachements/DG%20-%20UNCANNY%20SPACES%20-%20Ein%20filmisches%20Konzept-20240618114329438.jpg)
+![DG - UNCANNY SPACES - Ein filmisches Konzept-20240618114329438.jpg|560](/img/user/999%20attachements/DG%20-%20UNCANNY%20SPACES%20-%20Ein%20filmisches%20Konzept-20240618114329438.jpg)
 
-## **Erkundung der Identität durch Geschichte und Psychoanalyse: Eine filmische Reise nach Rhodos**
+## Erkundung der Identität durch Geschichte und Psychoanalyse: Eine filmische Reise nach Rhodos
 ---
 
 
 Die Manifestation der hier vorgestellten Ideen als filmisches Skript findet man im folgenden Beitrag:
 
-- [[DIGITAL GARDEN/DG - SAXA LOQUUNTUR- COLONIA PENALE AGRICOLA\|DG - SAXA LOQUUNTUR- COLONIA PENALE AGRICOLA]]
+- [ ] [[DIGITAL GARDEN/DG - SAXA LOQUUNTUR- COLONIA PENALE AGRICOLA\|DG - SAXA LOQUUNTUR- COLONIA PENALE AGRICOLA]]
 
 ---
 
-#### **SYNOPSIS**
+### SYNOPSIS
 
 "UNCANNY SPACES (Unheimliche Räume/Orte) - Eine filmische Untersuchung von Territorium, Kultur-Geschichte und Unterbewusstsein" ist ein Projekt, das theoretische Grundlagen und narrative Strukturen integriert, um die Konzepte SAXA LOQUUNTUR, SPURENSICHERUNG und RUINENLUST zu erforschen. Die Reise des Filmemachers Marco nach Rhodos dient als Rahmen für die Untersuchung, wobei die Insel und ihre Geschichte als Spiegel seiner eigenen Identität verwendet werden. Diese Reise ist mehr als eine bloße Erkundung; sie ist eine Kartierung seines Unbewussten und Unsichtbaren, bei der er archäologische Spuren und historische Überreste untersucht, um Fragen über seine Herkunft und kulturelle Zugehörigkeit zu beantworten. Das Projekt greift auf die Psychoanalyse von Sigmund Freud zurück, um verborgene Schichten der Zeit und Identität auf Rhodos zu enthüllen.
 
 Die Hauptthemen des Projekts sind die archäologische Erkundung eines Territoriums (Rhodos), die Erforschung des Mittelmeerraums und des menschlichen Unterbewusstseins (cultural apriori), sowie Anspielungen auf die psychoanalytische Methode Freuds. Marco hat intensiv über Rhodos recherchiert und seine Reise akribisch vorbereitet, um Verbindungen zwischen Archäologie, Geschichte und persönlicher Entwicklung zu erkunden und filmisch auszudrücken. Die Reise enthüllt nicht nur die Geschichte der Insel, sondern auch die Geschichte seiner eigenen Existenz. Das Projekt zeigt, wie die Konzepte SAXA LOQUUNTUR, SPURENSICHERUNG und RUINENLUST zusammengeführt werden können, um eine tiefere narrative und persönliche Erkundung zu ermöglichen, die sich in einer experimentellen filmischen Dokumentation entfaltet.
 
-#### **Hauptthemen und Leitmotive von "UNCANNY SPACES"**
+### UNCANNY SPACES - VIDEO
+---
+
+View the video on my YouTube channel:
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O_v0X1jQjzA?si=-AeM4-NjeAuTUDwi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Hauptthemen und Leitmotive von "UNCANNY SPACES"
 ---
 
 - [ ] **SAXA LOQUUNTUR**: Die archäologische Erkundung von Rhodos dient als Ausgangspunkt für eine tiefere Untersuchung von Geschichte und Identität.
