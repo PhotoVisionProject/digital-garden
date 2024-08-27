@@ -27,7 +27,7 @@ Here I present the concept and the filmic script, a kind of inner monolog accomp
 
 By intertwining personal narratives, historical accounts, and visual storytelling, the film paints a vivid picture of Danzig as a living, breathing palimpsest — where each era leaves its mark, yet the essence of the city remains ever-flowing and dynamic. The project aims to evoke a sense of place and time, inviting viewers to reflect on the interplay between history and memory, and the ways in which a city's identity is continually rewritten.
 
-## Danzig - A Flowing Palimpsest (VIDEO)
+## DANZIG24 - A Flowing Palimpsest (VIDEO)
 ---
 
 View the video on my YouTube channel:
