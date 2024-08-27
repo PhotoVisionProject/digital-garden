@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/dg-saxa-loquuntur-colonia-penale-agricola/","title":"DG - SAXA LOQUUNTUR- COLONIA PENALE AGRICOLA","tags":["Rhodos","RHODOS23","ExploringRhodos","RhodosMysteries","Geschichte","history","historia","Vergangenheit","memory","trauma","Erinnerung","Erinnerungsarbeit","ReisenSchreibenSehenEntwerfen","Verfall","ÄsthetikDesVerfalls","#OldSilkFactory","#AlteSeidenfabrik","unconscious","UncoveringSecrets","#Synchronizitäten","synchronicities","#ColoniaSanMarco","ColoniaPenaleAgricola","Seidenspinnerei","VLOG24AD04","DG2024AD05"]}
+{"dg-publish":true,"permalink":"/digital-garden/dg-saxa-loquuntur-colonia-penale-agricola/","title":"DG - SAXA LOQUUNTUR- COLONIA PENALE AGRICOLA","tags":["Rhodos","RHODOS23","ExploringRhodos","RhodosMysteries","Geschichte","history","HISTORIA","Vergangenheit","memory","trauma","Erinnerung","Erinnerungsarbeit","ReisenSchreibenSehenEntwerfen","Verfall","ÄsthetikDesVerfalls","#OldSilkFactory","#AlteSeidenfabrik","unconscious","UncoveringSecrets","#Synchronizitäten","synchronicities","#ColoniaSanMarco","ColoniaPenaleAgricola","Seidenspinnerei","VLOG24AD04","DG2024AD05"]}
 ---
 
 
@@ -29,7 +29,15 @@ Aktuell arbeite ich an der Realisierung der ersten Episode mit dem Titel "Coloni
 
 
 
+View also the new video on my YouTube channel:
 
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/O_v0X1jQjzA?si=-AeM4-NjeAuTUDwi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+
+### Hauptthemen und Leitmotive von "UNCANNY SP
 
 ### Synopsis
 ---
