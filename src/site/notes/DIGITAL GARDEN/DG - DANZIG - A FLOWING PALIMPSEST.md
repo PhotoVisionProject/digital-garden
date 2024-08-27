@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/dg-danzig-a-flowing-palimpsest/","title":"DG - DANZIG - A FLOWING PALIMPSEST","tags":["travel","journey","CITYLAB","lifestyle","LEBENSWEG","flaneur","Flaneur/Lifestyle","VISIONLAB","CINESCAPES","cityscapes","Urbanist","BERLIN12","HISTORIA","#Historie","Geschichte","ENDLESSLOOP","ENDLESSLOOP/TWO","VLOG24AD","Danzig","GDANSK24","DANZIG24","DANZIG24/Leitmotives","EPIPHANEIA","ENIGMA","VLOG24AD05","VLOG24AD05A","VLOG24AD05B","DG2024AD08"]}
+{"dg-publish":true,"permalink":"/digital-garden/dg-danzig-a-flowing-palimpsest/","title":"DG - DANZIG - A FLOWING PALIMPSEST","tags":["travel","journey","CITYLAB","lifestyle","LEBENSWEG","FLANEUR","FLANEUR/Lifestyle","VISIONLAB","CINESCAPES","cityscapes","URBANIST","BERLIN12","HISTORIA","#Historie","Geschichte","ENDLESSLOOP","ENDLESSLOOP/TWO","VLOG24AD","Danzig","GDANSK24","DANZIG24","DANZIG24/Leitmotives","EPIPHANEIA","ENIGMA","VLOG24AD05","VLOG24AD05A","VLOG24AD05B","DG2024AD08"]}
 ---
 
 ----
@@ -20,12 +20,19 @@ There are two short film projects:
 
 Here I present the concept and the filmic script, a kind of inner monolog accompanying the filmic sequences. 
 
-#### DANZIG24 - A Cinematic Journey Through Time
+### DANZIG24 - A Cinematic Journey Through Time
 ---
 
 **"DANZIG - A FLOWING PALIMPSEST"** is a filmic exploration that delves into the layered history of the city of Danzig, now known as Gdańsk. Through the lens of a traveling writer and filmmaker, the project captures the essence of a city that has been a crossroads of cultures, politics, and identities. The film navigates through the city's complex past, from its Hanseatic League days to its pivotal role in World War II and its transformation in the modern era.
 
 By intertwining personal narratives, historical accounts, and visual storytelling, the film paints a vivid picture of Danzig as a living, breathing palimpsest — where each era leaves its mark, yet the essence of the city remains ever-flowing and dynamic. The project aims to evoke a sense of place and time, inviting viewers to reflect on the interplay between history and memory, and the ways in which a city's identity is continually rewritten.
+
+## Danzig - A Flowing Palimpsest (VIDEO)
+---
+
+View the video on my YouTube channel:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QLf78ut_W-A?si=GOGXgcoKCm7fTpR3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## Danzig - A Flowing Palimpsest (SCRIPT)
