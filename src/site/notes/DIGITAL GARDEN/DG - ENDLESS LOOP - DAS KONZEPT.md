@@ -13,7 +13,7 @@
 
 **Endless Loop - Das Enigma der Kreativität - (M)eine Philosophie des Kreativen Prozesses**
 
-publ**ENDLESS LOOP** ist ein experimentelles filmisches Projekt, das den kreativen Prozess als ewigen Zyklus beleuchtet. Im Mittelpunkt steht die Auseinandersetzung mit dem **ENIGMA DER KREATIVITÄT** – dem rätselhaften und widersprüchlichen Weg, auf dem Ideen entstehen und sich verwandeln. Dieser Zyklus von insgesamt 10 filmischen Episoden, der bis Ende 2024 produziert wird, erforscht durch fragmentierte Erzählungen, improvisierte Musik und eindringliche visuelle Sequenzen die ständige Wechselwirkung zwischen Chaos und Ordnung, die jede schöpferische Handlung einzigartig macht.
+**ENDLESS LOOP** ist ein experimentelles filmisches Projekt, das den kreativen Prozess als ewigen Zyklus beleuchtet. Im Mittelpunkt steht die Auseinandersetzung mit dem **ENIGMA DER KREATIVITÄT** – dem rätselhaften und widersprüchlichen Weg, auf dem Ideen entstehen und sich verwandeln. Dieser Zyklus von insgesamt 10 filmischen Episoden, der bis Ende 2024 produziert wird, erforscht durch fragmentierte Erzählungen, improvisierte Musik und eindringliche visuelle Sequenzen die ständige Wechselwirkung zwischen Chaos und Ordnung, die jede schöpferische Handlung einzigartig macht.
 
 Ich habe eine Richtung, eine Linie, eine Perspektive für meinen Vlog gefunden. Nun bin ich schon dabei die 7e Episode meiner Reihe der  filmischen Untersuchung der Kreativität  bzw. des **“Kreativen Prozess (CREATIVE CODE)”** durch "Experimentelle Film-Essays" zu realisieren. Mehrere sollen folgen. 
 
@@ -33,7 +33,9 @@ Aktuell befinden sich die Episoden _Seven bis Ten_ in Arbeit. _Episode Seven_, *
 
 ---
 
-- [v] **ENDLESS LOOP** - [[REGISSEUR/ENDLESS LOOP - CONCEPT\|ENDLESS LOOP - CONCEPT]]
+- [x] **ENDLESS LOOP** - [[REGISSEUR/ENDLESS LOOP - CONCEPT\|ENDLESS LOOP - CONCEPT]]
+
+
 
 
 
