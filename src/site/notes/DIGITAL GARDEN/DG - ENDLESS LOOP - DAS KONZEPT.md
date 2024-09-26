@@ -7,6 +7,10 @@
 # DG - ENDLESS LOOP - DAS KONZEPT
 ----
 
+
+![DG - ENDLESS LOOP - DAS KONZEPT-20240926142858577.jpg](/img/user/999%20attachements/DG%20-%20ENDLESS%20LOOP%20-%20DAS%20KONZEPT-20240926142858577.jpg)
+
+
 **Endless Loop - Das Enigma der Kreativität - (M)eine Philosophie des Kreativen Prozesses**
 
 publ**ENDLESS LOOP** ist ein experimentelles filmisches Projekt, das den kreativen Prozess als ewigen Zyklus beleuchtet. Im Mittelpunkt steht die Auseinandersetzung mit dem **ENIGMA DER KREATIVITÄT** – dem rätselhaften und widersprüchlichen Weg, auf dem Ideen entstehen und sich verwandeln. Dieser Zyklus von insgesamt 10 filmischen Episoden, der bis Ende 2024 produziert wird, erforscht durch fragmentierte Erzählungen, improvisierte Musik und eindringliche visuelle Sequenzen die ständige Wechselwirkung zwischen Chaos und Ordnung, die jede schöpferische Handlung einzigartig macht.
@@ -36,40 +40,41 @@ Aktuell befinden sich die Episoden _Seven bis Ten_ in Arbeit. _Episode Seven_, *
 ### EPISODENÜBERSICHT
 ---
 
-- [v] **EPISODE ZERO - Fluss, Film, Zeit**
-	- [ ] View on YT: 
+- [x] **EPISODE ZERO - Fluss, Film, Zeit**
+	- [ ] View on YT: https://youtu.be/gIhoWMvUctE
 	- Eine Auseinandersetzung mit dem Enigma der Kreativität. Diese Episode nutzt den Fluss als Metapher für den kreativen Fluss und die Vergänglichkeit der Zeit.
 	- [[CREATIVE SPACES/VLOG/ENDLESS LOOP ZERO - THE RIVER\|ENDLESS LOOP ZERO - THE RIVER]] / [[CREATIVE SPACES/VLOG/Fluss, Film, Zeit - Eine Auseinandersetzung mit dem Enigma der Kreativität\|Fluss, Film, Zeit - Eine Auseinandersetzung mit dem Enigma der Kreativität]]
 
-- [v] **EPISODE ONE - Funken in der Dunkelheit**
-	- [ ] View on YT: 
+- [x] **EPISODE ONE - Funken in der Dunkelheit**
+	- [ ] View on YT: https://youtu.be/Gq9_pk_Njnk
 	- Das Geheimnis der Skripten entschlüsselt. Hier wird der kreative Funke und die Entstehung von Ideen thematisiert.
 	- [[CREATIVE SPACES/VLOG/ENDLESS LOOP ONE - FUNKEN IN DER DUNKELHEIT\|ENDLESS LOOP ONE - FUNKEN IN DER DUNKELHEIT]]
 
-- [v] **EPISODE TWO - BERLIN - ANGLEUS NOVUS**
+- [x] **EPISODE TWO - BERLIN - ANGLEUS NOVUS**
+	- [ ] View on YT: https://youtu.be/YqLKdOxmWxY
 	- BERLIN - ANGELUS NOVUS
 	- Eine visuelle Reise durch Berlin, die die Stadt als Inspirationsquelle und kreativen Raum darstellt.
 	- Filmische Streifzüge/Drifts/Derives durch Berlin als Dokumentation von Raum und Zeit.
 
-- [v] **EPISODE THREE - VLOG24AD03 - GOETHE CODE - GARTENHAUS**
-	- [ ] View on YT: 
+- [x] **EPISODE THREE - VLOG24AD03 - GOETHE CODE - GARTENHAUS**
+	- [ ] View on YT: https://youtu.be/F9IhiaPG63U
 	- Eine Untersuchung der kreativen Inspiration durch historische Figuren und Orte, speziell Goethes Gartenhaus.
 	- Die Verbindung historischer Orte mit kreativer Inspiration.
 
 - [x] **EPISODE FOUR** -  #ENDLESSLOOP/FOUR #ENDLESSLOOP/04
-	- [x] View on YT: 
+	- [x] View on YT: https://youtu.be/Xdi3P7OztA4
 	- [x] BERLIN24 - FILMIC DRIFTS
 	- [x] [[CREATIVE SPACES/VLOG/BERLIN24 - FILMIC DRIFT\|BERLIN24 - FILMIC DRIFT]]
 
 - [x] **EPISODE FIVE** - #ENDLESSLOOP/FIVE #ENDLESSLOOP/05
-	- [x] View on YT: 
+	- [x] View on YT: https://youtu.be/O_v0X1jQjzA
 	- [x] **SAXA LOQUUNTUR** 
 	- [x] Die Auseinandersetzung mit Geschichte, Landschaft und Architektur auf Rhodos.
 	- [x] [[PROJECTS/RHODOS CODE/RHODOS23 - COLONIA PENALE AGRICOLA - SCRIPT\|RHODOS23 - COLONIA PENALE AGRICOLA - SCRIPT]]
 	- [x] [[DIGITAL GARDEN/DG - SAXA LOQUUNTUR- COLONIA PENALE AGRICOLA\|DG - SAXA LOQUUNTUR- COLONIA PENALE AGRICOLA]]
 
 - [x] **EPISODE SIX** - #ENDLESSLOOP/SIX #ENDLESSLOOP/06
-	- [ ] View on YT: 
+	- [ ] View on YT: https://youtu.be/QLf78ut_W-A
 	- [x] **DANZIG - FLOWING PALIMSPSEST**
 	- [x] Danzig als ein Ort, an dem Schichten der Geschichte auf kreative Weise ineinanderfließen.
 	- [x] [[DIGITAL GARDEN/DG - DANZIG - A FLOWING PALIMPSEST\|DG - DANZIG - A FLOWING PALIMPSEST]]
@@ -115,7 +120,12 @@ Aktuell befinden sich die Episoden _Seven bis Ten_ in Arbeit. _Episode Seven_, *
 ## ENDLESS LOOP – DAS KONZEPT
 ---
 
+
+
+![DG - ENDLESS LOOP - DAS KONZEPT-20240926142827020.jpg](/img/user/999%20attachements/DG%20-%20ENDLESS%20LOOP%20-%20DAS%20KONZEPT-20240926142827020.jpg)
+
 ### Das Enigma der Kreativität
+---
 
 **ENDLESS LOOP** ist ein experimentelles filmisches Projekt, das den kreativen Prozess als ewigen Kreislauf untersucht. Im Zentrum steht die Auseinandersetzung mit dem **ENIGMA DER KREATIVITÄT** – der geheimnisvolle und oft widersprüchliche Weg, auf dem Ideen entstehen, wachsen und sich transformieren. Mittels fragmentierter Erzählstrukturen, improvisierter Musik und intensiver visueller Sequenzen wird die sich ständig wandelnde Natur der Kreativität offengelegt. Der Zuschauer wird eingeladen, die tiefe Verflechtung von Chaos und Ordnung zu erleben, die jeden schöpferischen Akt prägt und ihn einzigartig macht.
 
@@ -164,6 +174,11 @@ Das Projekt bietet eine visuelle und philosophische Erforschung des kreativen Pr
 - **Flanerie und Drifts:** Die Methode des ziellosen Umherstreifens eröffnet neue Sichtweisen und Impulse für den kreativen Fluss.
 
 ### STORY ART – Der kreative Prozess als narrative Handlung
+---
+
+
+![DG - ENDLESS LOOP - DAS KONZEPT-20240926142947140.jpg](/img/user/999%20attachements/DG%20-%20ENDLESS%20LOOP%20-%20DAS%20KONZEPT-20240926142947140.jpg)
+
 
 Der kreative Prozess selbst wird als narrative Handlung verstanden, in der jeder Schritt ein Teil einer Geschichte ist – mit Konflikten, Wendepunkten und Lösungen. Der Künstler wird zum Erzähler, der nicht nur ein Werk schafft, sondern eine Erzählung formt, die durch die Auseinandersetzung mit dem eigenen Schaffen und der Umwelt geprägt ist.
 
