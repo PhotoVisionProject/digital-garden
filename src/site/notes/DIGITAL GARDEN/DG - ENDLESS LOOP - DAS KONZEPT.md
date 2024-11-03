@@ -42,6 +42,10 @@ Aktuell befinden sich die Episoden _Seven bis Ten_ in Arbeit. _Episode Seven_, *
 ### EPISODENÜBERSICHT
 ---
 
+View all Episodes of "ENDLESS LOOP" on my YouTube Channel: [ENDLESS LOOP PLAYLIST](www.youtube.com/playlist?list=PLN5OpKaEeRU3-M3_f3NoSTlHiL8792cDl)
+
+---
+
 - [x] **EPISODE ZERO - Fluss, Film, Zeit**
 	- [ ] View on YT: https://youtu.be/gIhoWMvUctE
 	- Eine Auseinandersetzung mit dem Enigma der Kreativität. Diese Episode nutzt den Fluss als Metapher für den kreativen Fluss und die Vergänglichkeit der Zeit.
@@ -76,11 +80,15 @@ Aktuell befinden sich die Episoden _Seven bis Ten_ in Arbeit. _Episode Seven_, *
 	- [x] [[DIGITAL GARDEN/DG - SAXA LOQUUNTUR- COLONIA PENALE AGRICOLA\|DG - SAXA LOQUUNTUR- COLONIA PENALE AGRICOLA]]
 
 - [x] **EPISODE SIX** - #ENDLESSLOOP/SIX #ENDLESSLOOP/06
-	- [ ] View on YT: https://youtu.be/QLf78ut_W-A
+	- [x] View on YT: https://youtu.be/QLf78ut_W-A
 	- [x] **DANZIG - FLOWING PALIMSPSEST**
 	- [x] Danzig als ein Ort, an dem Schichten der Geschichte auf kreative Weise ineinanderfließen.
 	- [x] [[DIGITAL GARDEN/DG - DANZIG - A FLOWING PALIMPSEST\|DG - DANZIG - A FLOWING PALIMPSEST]]
 
+- [x] **EPISODE EIGHT - MASARI - FRAGMENTS OF A CREATIVE RETREAT**
+	- [x]  View on YT: https://youtu.be/I0L0irCewj8
+	- [x] VLOG24AD10 - #VLOG24AD11 #CREATIVECODE #ENDLESSLOOP/08 #ENDLESSLOOP/EIGHT
+	- [x] [[REGISSEUR/MASARI - Eine filmische Reflexion im Horizont von Mythos, Entropie und Zeit\|MASARI - Eine filmische Reflexion im Horizont von Mythos, Entropie und Zeit]]
 
 ---
 
@@ -91,9 +99,10 @@ Aktuell befinden sich die Episoden _Seven bis Ten_ in Arbeit. _Episode Seven_, *
 	- [ ] ATHENS24 / HYDRA24 - [[CREATIVE SPACES/IDEAS/Fragmente der Erinnerung - Rekonstruktion der Vergangenheit in der Gegenwart\|Fragmente der Erinnerung - Rekonstruktion der Vergangenheit in der Gegenwart]] 
 	- [ ] Fragmente der Erinnerung und die Rekonstruktion der Vergangenheit in der Gegenwart.
 
-- [ ] **EPISODE EIGHT - CREATIVITY IN FLOW**
+
+- [ ] **EPISODE NINE - CREATIVITY IN FLOW**
 	- [ ]  View on YT: 
-	- [ ] VLOG24AD10 - #VLOG24AD10 #CREATIVECODE #ENDLESSLOOP/08 #ENDLESSLOOP/EIGHT 
+	- [ ] VLOG24AD10 - #VLOG24AD11 #CREATIVECODE #ENDLESSLOOP/09  #ENDLESSLOOP/NINE 
 	- [ ] [[REGISSEUR/CREATIVITY IN FLOW - A FILMIC CONCEPT\|CREATIVITY IN FLOW - A FILMIC CONCEPT]]
 	- [ ] **SCENE ONE:** [[CREATIVE SPACES/VLOG/Verborgene Resonanzen – Durch das Labyrinth der Kreativität\|Verborgene Resonanzen – Durch das Labyrinth der Kreativität]]
 		- Eine filmische Erkundung der verborgenen Verbindungen und Resonanzen, die den kreativen Prozess antreiben. Diese Szene zeigt, wie spontane Ideen sich durch assoziative Wege entfalten und der Künstler intuitiv den nächsten Schritt findet.
@@ -105,13 +114,13 @@ Aktuell befinden sich die Episoden _Seven bis Ten_ in Arbeit. _Episode Seven_, *
 		- Zwischen den kreativen Schritten entstehen „Zwischenräume“, Momente der Stille und Reflexion, die wiederum neue Impulse setzen. Diese Szene untersucht, wie diese Pausen selbst Teil des kreativen Flusses werden und Raum für neue Ideen schaffen.
 
 
-- [ ] **EPISODE NINE - "DANZIG24 - DIE ALTE WERFT"**
+- [ ] **EPISODE TEN - "DANZIG24 - DIE ALTE WERFT"**
 	- [ ]  View on YT: 
 		- [ ] [[REGISSEUR/DANZIG24 - DIE ALTE WERFT - SCRIPT\|DANZIG24 - DIE ALTE WERFT - SCRIPT]]
 			- Diese Episode konzentriert sich auf die alte Werft von Danzig als Metapher für die Wiederbelebung und Transformation. Die Werft steht für Schichten der Geschichte und des industriellen Erbes, die in der Gegenwart auf neue Weise interpretiert werden. Der Film wird die Geschichte der Werft als Hintergrund für eine Reflexion über kreative Transformation und städtische Rekonstruktion verwenden. Welche Spuren hinterlässt die Vergangenheit, und wie können sie in neue künstlerische Ausdrucksformen überführt werden?
 
 
-- [ ] **EPISODE TEN - BERLIN - SCHINKEL**
+- [ ] **EPISODE ELEVEN - BERLIN - SCHINKEL**
     - [ ]  View on YT: 
     - [ ]  [[REGISSEUR/BERLIN24 - ARCHITECTURAL PROJECTIONS\|BERLIN24 - ARCHITECTURAL PROJECTIONS]] 
         - Eine Reflexion über das eigene künstlerische Schaffen und den Einfluss auf zukünftige Generationen.
