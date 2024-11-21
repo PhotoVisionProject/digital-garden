@@ -35,9 +35,7 @@ Aktuell befinden sich die Episoden _Seven bis Ten_ in Arbeit. _Episode Seven_, *
 
 
 
-
-
-### EPISODENÜBERSICHT
+### OVERVIEW
 ---
 
 View all Episodes of "ENDLESS LOOP" on my YouTube Channel: [ENDLESS LOOP PLAYLIST](www.youtube.com/playlist?list=PLN5OpKaEeRU3-M3_f3NoSTlHiL8792cDl)
@@ -97,8 +95,6 @@ View all Episodes of "ENDLESS LOOP" on my YouTube Channel: [ENDLESS LOOP PLAYLIS
 ---
 
 - [!] WORKING ON!
-
-
 
 - [ ] **EPISODE NINE - CREATIVITY IN FLOW**
 	- [ ] VLOG24AD10 - #VLOG24AD10 #CREATIVECODE #ENDLESSLOOP/09 #ENDLESSLOOP/NINE 
