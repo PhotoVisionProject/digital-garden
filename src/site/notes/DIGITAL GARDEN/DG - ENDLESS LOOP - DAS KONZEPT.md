@@ -7,9 +7,7 @@
 # DG - ENDLESS LOOP - DAS KONZEPT
 ----
 
-
-![DG - ENDLESS LOOP - DAS KONZEPT-20240926142858577.jpg](/img/user/999%20attachements/DG%20-%20ENDLESS%20LOOP%20-%20DAS%20KONZEPT-20240926142858577.jpg)
-
+![IMG_6592-1980px_WEB.jpg](/img/user/IMG_6592-1980px_WEB.jpg)
 
 **Endless Loop - Das Enigma der Kreativität - (M)eine Philosophie des Kreativen Prozesses**
 
@@ -88,22 +86,26 @@ View all Episodes of "ENDLESS LOOP" on my YouTube Channel: [ENDLESS LOOP PLAYLIS
 - [x] **EPISODE EIGHT - MASARI - FRAGMENTS OF A CREATIVE RETREAT**
 	- [x]  View on YT: https://youtu.be/I0L0irCewj8
 	- [x] VLOG24AD10 - #VLOG24AD11 #CREATIVECODE #ENDLESSLOOP/08 #ENDLESSLOOP/EIGHT
-	- [x] [[REGISSEUR/MASARI - Eine filmische Reflexion im Horizont von Mythos, Entropie und Zeit\|MASARI - Eine filmische Reflexion im Horizont von Mythos, Entropie und Zeit]]
+	- [x] [[CREATIVE SPACES/VLOG/MASARI - Eine filmische Reflexion im Horizont von Mythos, Entropie und Zeit\|MASARI - Eine filmische Reflexion im Horizont von Mythos, Entropie und Zeit]]
+
+- [x] **EPISODE SEVEN** - #ENDLESSLOOP/SEVEN #ENDLESSLOOP/07
+	- [x] View on YT: https://youtu.be/5cDLS5JlIz0
+	- [x] ATHENS PRELUDE - [[CREATIVE SPACES/VLOG/ATHENS24 - PRELUDE- SCRIPT\|ATHENS24 - PRELUDE- SCRIPT]] 
+	- [x] A City of Echoes and Transformation: Mythos, Memory, Crisis 
+
 
 ---
 
 - [!] WORKING ON!
 
-- [ ] **EPISODE SEVEN** - #ENDLESSLOOP/SEVEN #ENDLESSLOOP/07
-	- [ ] View on YT: 
-	- [ ] ATHENS24 / HYDRA24 - [[CREATIVE SPACES/IDEAS/Fragmente der Erinnerung - Rekonstruktion der Vergangenheit in der Gegenwart\|Fragmente der Erinnerung - Rekonstruktion der Vergangenheit in der Gegenwart]] 
-	- [ ] Fragmente der Erinnerung und die Rekonstruktion der Vergangenheit in der Gegenwart.
 
 
 - [ ] **EPISODE NINE - CREATIVITY IN FLOW**
-	- [ ]  View on YT: 
-	- [ ] VLOG24AD10 - #VLOG24AD11 #CREATIVECODE #ENDLESSLOOP/09  #ENDLESSLOOP/NINE 
+	- [ ] VLOG24AD10 - #VLOG24AD10 #CREATIVECODE #ENDLESSLOOP/09 #ENDLESSLOOP/NINE 
+	- [ ] WHAT TRIGGERS CREATIVITY? HOW TO IGNITE CREATIVITY? 
+	- [ ] [[EXPLORING CREATIVITY - PROTOCOLS
 	- [ ] [[REGISSEUR/CREATIVITY IN FLOW - A FILMIC CONCEPT\|CREATIVITY IN FLOW - A FILMIC CONCEPT]]
+	- [ ] [[REGISSEUR/CREATIVITY IN FLOW - A FILMIC SCRIPT\|CREATIVITY IN FLOW - A FILMIC SCRIPT]]
 	- [ ] **SCENE ONE:** [[CREATIVE SPACES/VLOG/Verborgene Resonanzen – Durch das Labyrinth der Kreativität\|Verborgene Resonanzen – Durch das Labyrinth der Kreativität]]
 		- Eine filmische Erkundung der verborgenen Verbindungen und Resonanzen, die den kreativen Prozess antreiben. Diese Szene zeigt, wie spontane Ideen sich durch assoziative Wege entfalten und der Künstler intuitiv den nächsten Schritt findet.
 	- [ ] **SCENE TWO:** [[PROCESS/TRIGGER CREATIVITY - BEEING IN THE WORLD\|TRIGGER CREATIVITY - BEEING IN THE WORLD]]
@@ -112,16 +114,19 @@ View all Episodes of "ENDLESS LOOP" on my YouTube Channel: [ENDLESS LOOP PLAYLIS
 		- Eine visuelle und narrative Reflexion darüber, wie unsere Umgebung, Erlebnisse und inneren Impulse kreative Schübe auslösen können. Der Akt des „Seins in der Welt“ wird als dynamischer Prozess betrachtet, der durch Erfahrungen und emotionale Resonanzen beeinflusst wird.
 	- [ ] **SCENE THREE:** [[CREATIVE SPACES/VLOG/Zwischenräume - Eine Suche nach Resonanz\|Zwischenräume - Eine Suche nach Resonanz]]
 		- Zwischen den kreativen Schritten entstehen „Zwischenräume“, Momente der Stille und Reflexion, die wiederum neue Impulse setzen. Diese Szene untersucht, wie diese Pausen selbst Teil des kreativen Flusses werden und Raum für neue Ideen schaffen.
+	- [ ] **ANGIE** - [[ANGIE - TOKINA 28-70mm 2.6-2.8 Angenieux
 
 
-- [ ] **EPISODE TEN - "DANZIG24 - DIE ALTE WERFT"**
-	- [ ]  View on YT: 
-		- [ ] [[REGISSEUR/DANZIG24 - DIE ALTE WERFT - SCRIPT\|DANZIG24 - DIE ALTE WERFT - SCRIPT]]
-			- Diese Episode konzentriert sich auf die alte Werft von Danzig als Metapher für die Wiederbelebung und Transformation. Die Werft steht für Schichten der Geschichte und des industriellen Erbes, die in der Gegenwart auf neue Weise interpretiert werden. Der Film wird die Geschichte der Werft als Hintergrund für eine Reflexion über kreative Transformation und städtische Rekonstruktion verwenden. Welche Spuren hinterlässt die Vergangenheit, und wie können sie in neue künstlerische Ausdrucksformen überführt werden?
+- [ ] **EPISODE TEN - "DAS BILD DES WEGES"
+	- [ ] VLOG24AD
+		- [ ] Brainstorming über die Idee: #DasBildDesWeges #KREATIVREISEN #SPURENSICHERUNG 
+			- [ ] **DANZIG24 - DIE ALTE WERFT:** [[REGISSEUR/DANZIG24 - DIE ALTE WERFT - SCRIPT\|DANZIG24 - DIE ALTE WERFT - SCRIPT]]
+			    - Diese Episode konzentriert sich auf die alte Werft von Danzig als Metapher für die Wiederbelebung und Transformation. Die Werft steht für Schichten der Geschichte und des industriellen Erbes, die in der Gegenwart auf neue Weise interpretiert werden. Der Film wird die Geschichte der Werft als Hintergrund für eine Reflexion über kreative Transformation und städtische Rekonstruktion verwenden. Welche Spuren hinterlässt die Vergangenheit, und wie können sie in neue künstlerische Ausdrucksformen überführt werden?
+			- [ ] **DER WEG** - RHODOS ... 
+			- [ ] TRAVEL CINEMATOGRAPHY #TravelCinematography 
 
 
 - [ ] **EPISODE ELEVEN - BERLIN - SCHINKEL**
-    - [ ]  View on YT: 
     - [ ]  [[REGISSEUR/BERLIN24 - ARCHITECTURAL PROJECTIONS\|BERLIN24 - ARCHITECTURAL PROJECTIONS]] 
         - Eine Reflexion über das eigene künstlerische Schaffen und den Einfluss auf zukünftige Generationen.
         - Diese Episode ist eine Hommage an den großen Architekten Karl Friedrich Schinkel und seine visionäre Architektur. Sie wird Schinkels Einfluss auf die moderne Stadtgestaltung Berlins und die Verbindung zwischen klassischer Architektur und gegenwärtigem künstlerischem Schaffen beleuchten. Im Mittelpunkt steht die Frage: Wie beeinflusst unsere Wahrnehmung von Räumen und Bauwerken unser kreatives Selbstverständnis? Schinkel wird als Symbol für eine künstlerische Reflexion betrachtet, die über Generationen hinweg wirkt und Zukunftsprojektionen für die Kreativität ermöglicht.
@@ -133,7 +138,7 @@ View all Episodes of "ENDLESS LOOP" on my YouTube Channel: [ENDLESS LOOP PLAYLIS
 
 
 
-![DG - ENDLESS LOOP - DAS KONZEPT-20240926142827020.jpg](/img/user/999%20attachements/DG%20-%20ENDLESS%20LOOP%20-%20DAS%20KONZEPT-20240926142827020.jpg)
+![DG - ENDLESS LOOP - DAS KONZEPT-20240926142827020.jpg](/img/user/999%20attachements/images/DG%20-%20ENDLESS%20LOOP%20-%20DAS%20KONZEPT-20240926142827020.jpg)
 
 ### Das Enigma der Kreativität
 ---
@@ -188,7 +193,7 @@ Das Projekt bietet eine visuelle und philosophische Erforschung des kreativen Pr
 ---
 
 
-![DG - ENDLESS LOOP - DAS KONZEPT-20240926142947140.jpg](/img/user/999%20attachements/DG%20-%20ENDLESS%20LOOP%20-%20DAS%20KONZEPT-20240926142947140.jpg)
+![DG - ENDLESS LOOP - DAS KONZEPT-20240926142947140.jpg](/img/user/999%20attachements/images/DG%20-%20ENDLESS%20LOOP%20-%20DAS%20KONZEPT-20240926142947140.jpg)
 
 
 Der kreative Prozess selbst wird als narrative Handlung verstanden, in der jeder Schritt ein Teil einer Geschichte ist – mit Konflikten, Wendepunkten und Lösungen. Der Künstler wird zum Erzähler, der nicht nur ein Werk schafft, sondern eine Erzählung formt, die durch die Auseinandersetzung mit dem eigenen Schaffen und der Umwelt geprägt ist.
