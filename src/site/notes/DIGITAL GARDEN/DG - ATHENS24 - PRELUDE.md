@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/dg-athens-24-prelude/","title":"ATHENS24 - PRELUDE- SCRIPT","tags":["ATHENS24","ATHENS24/SCRIPTS","ATHENS24/PRELUDE","ATHENS24/Proömion","SketchBooks","CreativeProcess"]}
+{"dg-publish":true,"permalink":"/digital-garden/dg-athens-24-prelude/","title":"DG - ATHENS24 - PRELUDE","tags":["ATHENS24","ATHENS24/SCRIPTS","ATHENS24/PRELUDE","ATHENS24/Proömion","SketchBooks","CreativeProcess"]}
 ---
 
 
 ----
-# ATHENS24 - PRELUDE (SCRIPT)
+# DG - ATHENS24 - PRELUDE
 ----
 
 (This is a candid, unpolished excerpt from my creative process, providing a glimpse into the development of the video. Please note that it's not a complete, coherent, or systematically organized description.)
