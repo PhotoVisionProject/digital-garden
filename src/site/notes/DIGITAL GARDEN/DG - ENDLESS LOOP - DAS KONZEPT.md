@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/dg-endless-loop-das-konzept/","title":"DG - ENDLESS LOOP - DAS KONZEPT","tags":["cinematographer","REGISSEUR","Autor","writer","creativity","CREATIVECODE","ENDLESSLOOP/ZERO","ENDLESSLOOP/ONE","ENDLESSLOOP/TWO","ENDLESSLOOP/THREE","ENDLESSLOOP","ENDLESSLOOP/FOUR","ENDLESSLOOP/FIVE"]}
+{"dg-publish":true,"permalink":"/digital-garden/dg-endless-loop-das-konzept/","title":"DG - ENDLESS LOOP - DAS KONZEPT","tags":["cinematographer","REGISSEUR","Autor","writer","creativity","CREATIVECODE","ENDLESSLOOP/ZERO","ENDLESSLOOP/ONE","ENDLESSLOOP/TWO","ENDLESSLOOP/THREE","ENDLESSLOOP","ENDLESSLOOP/FOUR","ENDLESSLOOP/FIVE","ENDLESSLOOP/08","ENDLESSLOOP/06","ENDLESSLOOP/07"]}
 ---
 
 
@@ -7,7 +7,7 @@
 # DG - ENDLESS LOOP - DAS KONZEPT
 ----
 
-![IMG_6592-1980px_WEB.jpg](/img/user/IMG_6592-1980px_WEB.jpg)
+![999 attachements/images/IMG_6592-1980px_WEB.jpg](/img/user/999%20attachements/images/IMG_6592-1980px_WEB.jpg)
 
 **Endless Loop - Das Enigma der Kreativität - (M)eine Philosophie des Kreativen Prozesses**
 
@@ -81,15 +81,16 @@ View all Episodes of "ENDLESS LOOP" on my YouTube Channel: [ENDLESS LOOP PLAYLIS
 	- [x] Danzig als ein Ort, an dem Schichten der Geschichte auf kreative Weise ineinanderfließen.
 	- [x] [[DIGITAL GARDEN/DG - DANZIG - A FLOWING PALIMPSEST\|DG - DANZIG - A FLOWING PALIMPSEST]]
 
+- [x] **EPISODE SEVEN** - #ENDLESSLOOP/SEVEN #ENDLESSLOOP/07
+	- [x] View on YT: https://youtu.be/5cDLS5JlIz0
+	- [x] ATHENS PRELUDE - [[DIGITAL GARDEN/DG - ATHENS24 - PRELUDE\|DG - ATHENS24 - PRELUDE]] 
+	- [x] A City of Echoes and Transformation: Mythos, Memory, Crisis 
+
 - [x] **EPISODE EIGHT - MASARI - FRAGMENTS OF A CREATIVE RETREAT**
 	- [x]  View on YT: https://youtu.be/I0L0irCewj8
 	- [x] VLOG24AD10 - #VLOG24AD11 #CREATIVECODE #ENDLESSLOOP/08 #ENDLESSLOOP/EIGHT
 	- [x] [[CREATIVE SPACES/VLOG/MASARI - Eine filmische Reflexion im Horizont von Mythos, Entropie und Zeit\|MASARI - Eine filmische Reflexion im Horizont von Mythos, Entropie und Zeit]]
 
-- [x] **EPISODE SEVEN** - #ENDLESSLOOP/SEVEN #ENDLESSLOOP/07
-	- [x] View on YT: https://youtu.be/5cDLS5JlIz0
-	- [x] ATHENS PRELUDE - [[CREATIVE SPACES/VLOG/ATHENS24 - PRELUDE- SCRIPT\|ATHENS24 - PRELUDE- SCRIPT]] 
-	- [x] A City of Echoes and Transformation: Mythos, Memory, Crisis 
 
 
 ---
@@ -113,12 +114,18 @@ View all Episodes of "ENDLESS LOOP" on my YouTube Channel: [ENDLESS LOOP PLAYLIS
 	- [ ] **ANGIE** - [[ANGIE - TOKINA 28-70mm 2.6-2.8 Angenieux
 
 
-- [ ] **EPISODE TEN - "DAS BILD DES WEGES"
+- [/] **EPISODE TEN - "DAS BILD DES WEGES"
 	- [ ] VLOG24AD
+		- [ ] Part of the new Series: **THE ORIGINS OF IMAGES**
 		- [ ] Brainstorming über die Idee: #DasBildDesWeges #KREATIVREISEN #SPURENSICHERUNG 
 			- [ ] **DANZIG24 - DIE ALTE WERFT:** [[REGISSEUR/DANZIG24 - DIE ALTE WERFT - SCRIPT\|DANZIG24 - DIE ALTE WERFT - SCRIPT]]
 			    - Diese Episode konzentriert sich auf die alte Werft von Danzig als Metapher für die Wiederbelebung und Transformation. Die Werft steht für Schichten der Geschichte und des industriellen Erbes, die in der Gegenwart auf neue Weise interpretiert werden. Der Film wird die Geschichte der Werft als Hintergrund für eine Reflexion über kreative Transformation und städtische Rekonstruktion verwenden. Welche Spuren hinterlässt die Vergangenheit, und wie können sie in neue künstlerische Ausdrucksformen überführt werden?
-			- [ ] **DER WEG** - RHODOS ... 
+			- [ ] **DER WEG** - RHODOS24 (NOSTOS)
+			- [ ] DER WEG - ATHENS24 (AESTHETICS OF CRISIS)
+			- [ ] DER WEG - BERLIN20-24 (PATHS OF HISTORY)
+			- [ ] DER WEG - HAMBURG24 (THERIVER)
+			- [ ] DER WEG - DANZIG24 (ALTE WERFT)
+			- [ ] DER WEG - BRUNSBERG23 (NATURE)
 			- [ ] TRAVEL CINEMATOGRAPHY #TravelCinematography 
 
 
