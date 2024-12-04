@@ -91,7 +91,7 @@ View all Episodes of "ENDLESS LOOP" on my YouTube Channel: [ENDLESS LOOP PLAYLIS
 	- [x] VLOG24AD10 - #VLOG24AD11 #CREATIVECODE #ENDLESSLOOP/08 #ENDLESSLOOP/EIGHT
 	- [x] [[CREATIVE SPACES/VLOG/MASARI - Eine filmische Reflexion im Horizont von Mythos, Entropie und Zeit\|MASARI - Eine filmische Reflexion im Horizont von Mythos, Entropie und Zeit]]
 
-- [x] EPISODE NINE - THE ENIGMA OF RHODOS - AN AERIAL PERSPECTIVE
+- [x] **EPISODE NINE - THE ENIGMA OF RHODOS - AN AERIAL PERSPECTIVE**
 	- [x] Watch on YT: https://youtu.be/PEedWKO9Zvk
 	- [x] VLOG24AD14 - #VLOG24AD14 #CREATIVECODE #ENDLESSLOOP/09  #ENDLESSLOOP/NINE 
 	- [x] [[REGISSEUR/RHODOS24 - Unravel the Enigma of Art, History, and Identity\|RHODOS24 - Unravel the Enigma of Art, History, and Identity]]
