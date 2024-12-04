@@ -42,56 +42,56 @@ View all Episodes of "ENDLESS LOOP" on my YouTube Channel: [ENDLESS LOOP PLAYLIS
 
 ---
 
-- [x] **EPISODE ZERO - Fluss, Film, Zeit**
+- [x] **EPISODE ZERO: THE RIVER (Fluss, Film, Zeit)**
 	- [ ] View on YT: https://youtu.be/gIhoWMvUctE
 	- Eine Auseinandersetzung mit dem Enigma der Kreativität. Diese Episode nutzt den Fluss als Metapher für den kreativen Fluss und die Vergänglichkeit der Zeit.
 	- [[CREATIVE SPACES/VLOG/ENDLESS LOOP ZERO - THE RIVER\|ENDLESS LOOP ZERO - THE RIVER]] / [[CREATIVE SPACES/VLOG/Fluss, Film, Zeit - Eine Auseinandersetzung mit dem Enigma der Kreativität\|Fluss, Film, Zeit - Eine Auseinandersetzung mit dem Enigma der Kreativität]]
 
-- [x] **EPISODE ONE - Funken in der Dunkelheit**
+- [x] **EPISODE ONE: FUNKEN IN DER DUNKELHEIT** 
 	- [ ] View on YT: https://youtu.be/Gq9_pk_Njnk
 	- Das Geheimnis der Skripten entschlüsselt. Hier wird der kreative Funke und die Entstehung von Ideen thematisiert.
 	- [[CREATIVE SPACES/VLOG/ENDLESS LOOP ONE - FUNKEN IN DER DUNKELHEIT\|ENDLESS LOOP ONE - FUNKEN IN DER DUNKELHEIT]]
 
-- [x] **EPISODE TWO - BERLIN - ANGLEUS NOVUS**
+- [x] **EPISODE TWO: BERLIN - ANGLEUS NOVUS**
 	- [ ] View on YT: https://youtu.be/YqLKdOxmWxY
 	- BERLIN - ANGELUS NOVUS
 	- Eine visuelle Reise durch Berlin, die die Stadt als Inspirationsquelle und kreativen Raum darstellt.
 	- Filmische Streifzüge/Drifts/Derives durch Berlin als Dokumentation von Raum und Zeit.
 
-- [x] **EPISODE THREE - VLOG24AD03 - GOETHE CODE - GARTENHAUS**
+- [x] **EPISODE THREE: GOETHE CODE - EIN ORT DER KUNST**
 	- [ ] View on YT: https://youtu.be/F9IhiaPG63U
 	- Eine Untersuchung der kreativen Inspiration durch historische Figuren und Orte, speziell Goethes Gartenhaus.
 	- Die Verbindung historischer Orte mit kreativer Inspiration.
 
-- [x] **EPISODE FOUR** -  #ENDLESSLOOP/FOUR #ENDLESSLOOP/04
+- [x] **EPISODE FOUR: BERLIN24 - FILMIC DRIFTS** -  #ENDLESSLOOP/FOUR #ENDLESSLOOP/04
 	- [x] View on YT: https://youtu.be/Xdi3P7OztA4
 	- [x] BERLIN24 - FILMIC DRIFTS
 	- [x] [[CREATIVE SPACES/VLOG/BERLIN24 - FILMIC DRIFT\|BERLIN24 - FILMIC DRIFT]]
 
-- [x] **EPISODE FIVE** - #ENDLESSLOOP/FIVE #ENDLESSLOOP/05
+- [x] **EPISODE FIVE: RHODOS - SAXA LOQUUNTUR** - #ENDLESSLOOP/FIVE #ENDLESSLOOP/05
 	- [x] View on YT: https://youtu.be/O_v0X1jQjzA
 	- [x] **SAXA LOQUUNTUR** 
 	- [x] Die Auseinandersetzung mit Geschichte, Landschaft und Architektur auf Rhodos.
 	- [x] [[PROJECTS/RHODOS CODE/RHODOS23 - COLONIA PENALE AGRICOLA - SCRIPT\|RHODOS23 - COLONIA PENALE AGRICOLA - SCRIPT]]
 	- [x] [[DIGITAL GARDEN/DG - SAXA LOQUUNTUR- COLONIA PENALE AGRICOLA\|DG - SAXA LOQUUNTUR- COLONIA PENALE AGRICOLA]]
 
-- [x] **EPISODE SIX** - #ENDLESSLOOP/SIX #ENDLESSLOOP/06
+- [x] **EPISODE SIX: DANZIG - FLOWING PALIMPSEST**- #ENDLESSLOOP/SIX #ENDLESSLOOP/06
 	- [x] View on YT: https://youtu.be/QLf78ut_W-A
-	- [x] **DANZIG - FLOWING PALIMSPSEST**
+	- [x] **DANZIG - FLOWING PALIMPSEST**
 	- [x] Danzig als ein Ort, an dem Schichten der Geschichte auf kreative Weise ineinanderfließen.
 	- [x] [[DIGITAL GARDEN/DG - DANZIG - A FLOWING PALIMPSEST\|DG - DANZIG - A FLOWING PALIMPSEST]]
 
-- [x] **EPISODE SEVEN** - #ENDLESSLOOP/SEVEN #ENDLESSLOOP/07
+- [x] **EPISODE SEVEN: ATHENS PRELUDE** - #ENDLESSLOOP/SEVEN #ENDLESSLOOP/07
 	- [x] View on YT: https://youtu.be/5cDLS5JlIz0
 	- [x] ATHENS PRELUDE - [[DIGITAL GARDEN/DG - ATHENS24 - PRELUDE\|DG - ATHENS24 - PRELUDE]] 
 	- [x] A City of Echoes and Transformation: Mythos, Memory, Crisis 
 
-- [x] **EPISODE EIGHT - MASARI - FRAGMENTS OF A CREATIVE RETREAT**
+- [x] **EPISODE EIGHT: MASARI - FRAGMENTS OF A CREATIVE RETREAT**
 	- [x]  View on YT: https://youtu.be/I0L0irCewj8
 	- [x] VLOG24AD10 - #VLOG24AD11 #CREATIVECODE #ENDLESSLOOP/08 #ENDLESSLOOP/EIGHT
 	- [x] [[CREATIVE SPACES/VLOG/MASARI - Eine filmische Reflexion im Horizont von Mythos, Entropie und Zeit\|MASARI - Eine filmische Reflexion im Horizont von Mythos, Entropie und Zeit]]
 
-- [x] **EPISODE NINE - THE ENIGMA OF RHODOS - AN AERIAL PERSPECTIVE**
+- [x] **EPISODE NINE: THE ENIGMA OF RHODOS - AN AERIAL PERSPECTIVE**
 	- [x] Watch on YT: https://youtu.be/PEedWKO9Zvk
 	- [x] VLOG24AD14 - #VLOG24AD14 #CREATIVECODE #ENDLESSLOOP/09  #ENDLESSLOOP/NINE 
 	- [x] [[REGISSEUR/RHODOS24 - Unravel the Enigma of Art, History, and Identity\|RHODOS24 - Unravel the Enigma of Art, History, and Identity]]
