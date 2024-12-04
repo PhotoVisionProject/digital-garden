@@ -17,7 +17,6 @@ Ich habe eine Richtung, eine Linie, eine Perspektive für meinen Vlog gefunden. 
 
 ---
 
-
 ## ENDLESS LOOP - TIMELINE
 ---
 
@@ -32,8 +31,6 @@ Aktuell befinden sich die Episoden _Seven bis Ten_ in Arbeit. _Episode Seven_, *
 ---
 
 - [x] **ENDLESS LOOP** - [[REGISSEUR/ENDLESS LOOP - CONCEPT\|ENDLESS LOOP - CONCEPT]]
-
-
 
 ### OVERVIEW
 ---
@@ -100,38 +97,38 @@ View all Episodes of "ENDLESS LOOP" on my YouTube Channel: [ENDLESS LOOP PLAYLIS
 
 - [!] WORKING ON!
 
-- [ ] **EPISODE TEN - CREATIVITY IN FLOW**
-	- [ ] VLOG24AD -  #CREATIVECODE 
+- [ ] **EPISODE TEN: CREATIVITY IN FLOW**
+	- [ ] VLOG24AD -  #CREATIVECODE #TheCreativeAct #TheActOfCreation 
 	- [ ] WHAT TRIGGERS CREATIVITY? HOW TO IGNITE CREATIVITY? 
-	- [ ] [[EXPLORING CREATIVITY - PROTOCOLS
+	- [ ] [[INSPIRATION/EXPLORING CREATIVITY - PROTOCOLS\|EXPLORING CREATIVITY - PROTOCOLS]]
 	- [ ] [[REGISSEUR/CREATIVITY IN FLOW - A FILMIC CONCEPT\|CREATIVITY IN FLOW - A FILMIC CONCEPT]]
 	- [ ] [[REGISSEUR/CREATIVITY IN FLOW - A FILMIC SCRIPT\|CREATIVITY IN FLOW - A FILMIC SCRIPT]]
-	- [ ] **SCENE ONE:** [[CREATIVE SPACES/VLOG/Verborgene Resonanzen – Durch das Labyrinth der Kreativität\|Verborgene Resonanzen – Durch das Labyrinth der Kreativität]]
+	- [ ] **SCENE ONE -** [[CREATIVE SPACES/VLOG/Verborgene Resonanzen – Durch das Labyrinth der Kreativität\|Verborgene Resonanzen – Durch das Labyrinth der Kreativität]]
 		- Eine filmische Erkundung der verborgenen Verbindungen und Resonanzen, die den kreativen Prozess antreiben. Diese Szene zeigt, wie spontane Ideen sich durch assoziative Wege entfalten und der Künstler intuitiv den nächsten Schritt findet.
-	- [ ] **SCENE TWO:** [[PROCESS/TRIGGER CREATIVITY - BEEING IN THE WORLD\|TRIGGER CREATIVITY - BEEING IN THE WORLD]]
+	- [ ] **SCENE TWO -** [[PROCESS/TRIGGER CREATIVITY - BEEING IN THE WORLD\|TRIGGER CREATIVITY - BEEING IN THE WORLD]]
 	- [ ] WHAT TRIGGERS CREATIVITY? HOW TO IGNITE CREATIVITY? 
 	- [ ] Eine Untersuchung darüber, was Kreativität auslöst und wie sie entfacht wird.
 		- Eine visuelle und narrative Reflexion darüber, wie unsere Umgebung, Erlebnisse und inneren Impulse kreative Schübe auslösen können. Der Akt des „Seins in der Welt“ wird als dynamischer Prozess betrachtet, der durch Erfahrungen und emotionale Resonanzen beeinflusst wird.
-	- [ ] **SCENE THREE:** [[CREATIVE SPACES/VLOG/Zwischenräume - Eine Suche nach Resonanz\|Zwischenräume - Eine Suche nach Resonanz]]
+	- [ ] **SCENE THREE** -  [[CREATIVE SPACES/VLOG/Zwischenräume - Eine Suche nach Resonanz\|Zwischenräume - Eine Suche nach Resonanz]]
 		- Zwischen den kreativen Schritten entstehen „Zwischenräume“, Momente der Stille und Reflexion, die wiederum neue Impulse setzen. Diese Szene untersucht, wie diese Pausen selbst Teil des kreativen Flusses werden und Raum für neue Ideen schaffen.
 	- [ ] **ANGIE:** [[PROJECTS/VISIONLAB/ANGIE - TOKINA 28-70mm 2.6-2.8 Angenieux\|ANGIE - TOKINA 28-70mm 2.6-2.8 Angenieux]] - #ANGIE
 	- [ ] **NIKON STORY:** [[REGISSEUR/THE ORIGINS OF IMAGES - NIKON STORY\|THE ORIGINS OF IMAGES - NIKON STORY]] - #NIKONSTORY 
 	- [ ] **IKONGRAPH - STORYTELLER:** [[IDENTITIES/Vom Ikonographen zum Storyteller\|Vom Ikonographen zum Storyteller]]  - #Ikonograph 
 
 
-- [/] **EPISODE ELEVEN - "DAS BILD DES WEGES"
+- [/] **EPISODE ELEVEN: DAS BILD DES WEGES**
 	- [ ] VLOG24AD
 		- [ ] Part of the new Series: **THE ORIGINS OF IMAGES**
 		- [ ] Brainstorming über die Idee: #DasBildDesWeges #KREATIVREISEN #SPURENSICHERUNG 
 			- [ ] **DANZIG24 - DIE ALTE WERFT:** [[REGISSEUR/DANZIG24 - DIE ALTE WERFT - SCRIPT\|DANZIG24 - DIE ALTE WERFT - SCRIPT]]
 			    - Diese Episode konzentriert sich auf die alte Werft von Danzig als Metapher für die Wiederbelebung und Transformation. Die Werft steht für Schichten der Geschichte und des industriellen Erbes, die in der Gegenwart auf neue Weise interpretiert werden. Der Film wird die Geschichte der Werft als Hintergrund für eine Reflexion über kreative Transformation und städtische Rekonstruktion verwenden. Welche Spuren hinterlässt die Vergangenheit, und wie können sie in neue künstlerische Ausdrucksformen überführt werden?
 
-		- [ ] TRAVEL CINEMATOGRAPHY #TravelCinematography 
+		- [ ] **TRAVEL CINEMATOGRAPHY** #TravelCinematography 
 			- [ ] **DER WEG** - RHODOS24 (NOSTOS)
 			- [ ] DER WEG - ATHENS24 (AESTHETICS OF CRISIS)
-			- [ ] DER WEG - BERLIN20-24 (PATHS OF HISTORY)
+			- [ ] DER WEG - BERLIN2024 (PATHS OF HISTORY)
 			- [ ] DER WEG - HAMBURG24 (THERIVER)
-			- [ ] DER WEG - DANZIG24 (ALTE WERFT)
+			- [ ] DER WEG - DANZIG24 (PALIMPSEST, ALTE WERFT)
 			- [ ] DER WEG - BRUNSBERG23 (NATURE)
 
 
