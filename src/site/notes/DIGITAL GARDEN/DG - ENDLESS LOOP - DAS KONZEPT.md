@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/dg-endless-loop-das-konzept/","title":"DG - ENDLESS LOOP - DAS KONZEPT","tags":["cinematographer","REGISSEUR","Autor","writer","creativity","CREATIVECODE","ENDLESSLOOP/ZERO","ENDLESSLOOP/ONE","ENDLESSLOOP/TWO","ENDLESSLOOP/THREE","ENDLESSLOOP","ENDLESSLOOP/FOUR","ENDLESSLOOP/FIVE","ENDLESSLOOP/08","ENDLESSLOOP/06","ENDLESSLOOP/07"]}
+{"dg-publish":true,"permalink":"/digital-garden/dg-endless-loop-das-konzept/","title":"DG - ENDLESS LOOP - DAS KONZEPT","tags":["cinematographer","REGISSEUR","Autor","writer","creativity","CREATIVECODE","ENDLESSLOOP/ZERO","ENDLESSLOOP/ONE","ENDLESSLOOP/TWO","ENDLESSLOOP/THREE","ENDLESSLOOP","ENDLESSLOOP/FOUR","ENDLESSLOOP/FIVE","ENDLESSLOOP/08","ENDLESSLOOP/06","ENDLESSLOOP/07","ENDLESSLOOP/09"]}
 ---
 
 
@@ -91,14 +91,17 @@ View all Episodes of "ENDLESS LOOP" on my YouTube Channel: [ENDLESS LOOP PLAYLIS
 	- [x] VLOG24AD10 - #VLOG24AD11 #CREATIVECODE #ENDLESSLOOP/08 #ENDLESSLOOP/EIGHT
 	- [x] [[CREATIVE SPACES/VLOG/MASARI - Eine filmische Reflexion im Horizont von Mythos, Entropie und Zeit\|MASARI - Eine filmische Reflexion im Horizont von Mythos, Entropie und Zeit]]
 
-
+- [x] EPISODE NINE - THE ENIGMA OF RHODOS - AN AERIAL PERSPECTIVE
+	- [x] Watch on YT: https://youtu.be/PEedWKO9Zvk
+	- [x] VLOG24AD14 - #VLOG24AD14 #CREATIVECODE #ENDLESSLOOP/09  #ENDLESSLOOP/NINE 
+	- [x] [[REGISSEUR/RHODOS24 - Unravel the Enigma of Art, History, and Identity\|RHODOS24 - Unravel the Enigma of Art, History, and Identity]]
 
 ---
 
 - [!] WORKING ON!
 
-- [ ] **EPISODE NINE - CREATIVITY IN FLOW**
-	- [ ] VLOG24AD10 - #VLOG24AD10 #CREATIVECODE #ENDLESSLOOP/09 #ENDLESSLOOP/NINE 
+- [ ] **EPISODE TEN - CREATIVITY IN FLOW**
+	- [ ] VLOG24AD -  #CREATIVECODE 
 	- [ ] WHAT TRIGGERS CREATIVITY? HOW TO IGNITE CREATIVITY? 
 	- [ ] [[EXPLORING CREATIVITY - PROTOCOLS
 	- [ ] [[REGISSEUR/CREATIVITY IN FLOW - A FILMIC CONCEPT\|CREATIVITY IN FLOW - A FILMIC CONCEPT]]
@@ -111,25 +114,28 @@ View all Episodes of "ENDLESS LOOP" on my YouTube Channel: [ENDLESS LOOP PLAYLIS
 		- Eine visuelle und narrative Reflexion darüber, wie unsere Umgebung, Erlebnisse und inneren Impulse kreative Schübe auslösen können. Der Akt des „Seins in der Welt“ wird als dynamischer Prozess betrachtet, der durch Erfahrungen und emotionale Resonanzen beeinflusst wird.
 	- [ ] **SCENE THREE:** [[CREATIVE SPACES/VLOG/Zwischenräume - Eine Suche nach Resonanz\|Zwischenräume - Eine Suche nach Resonanz]]
 		- Zwischen den kreativen Schritten entstehen „Zwischenräume“, Momente der Stille und Reflexion, die wiederum neue Impulse setzen. Diese Szene untersucht, wie diese Pausen selbst Teil des kreativen Flusses werden und Raum für neue Ideen schaffen.
-	- [ ] **ANGIE** - [[ANGIE - TOKINA 28-70mm 2.6-2.8 Angenieux
+	- [ ] **ANGIE:** [[ANGIE - TOKINA 28-70mm 2.6-2.8 Angenieux
+	- [ ] **NIKON STORY:** [[REGISSEUR/THE ORIGINS OF IMAGES - NIKON STORY\|THE ORIGINS OF IMAGES - NIKON STORY]]
+	- [ ] **IKONGRAPH - STORYTELLER:** [[IDENTITIES/Vom Ikonographen zum Storyteller\|Vom Ikonographen zum Storyteller]]
 
 
-- [/] **EPISODE TEN - "DAS BILD DES WEGES"
+- [/] **EPISODE ELEVEN - "DAS BILD DES WEGES"
 	- [ ] VLOG24AD
 		- [ ] Part of the new Series: **THE ORIGINS OF IMAGES**
 		- [ ] Brainstorming über die Idee: #DasBildDesWeges #KREATIVREISEN #SPURENSICHERUNG 
 			- [ ] **DANZIG24 - DIE ALTE WERFT:** [[REGISSEUR/DANZIG24 - DIE ALTE WERFT - SCRIPT\|DANZIG24 - DIE ALTE WERFT - SCRIPT]]
 			    - Diese Episode konzentriert sich auf die alte Werft von Danzig als Metapher für die Wiederbelebung und Transformation. Die Werft steht für Schichten der Geschichte und des industriellen Erbes, die in der Gegenwart auf neue Weise interpretiert werden. Der Film wird die Geschichte der Werft als Hintergrund für eine Reflexion über kreative Transformation und städtische Rekonstruktion verwenden. Welche Spuren hinterlässt die Vergangenheit, und wie können sie in neue künstlerische Ausdrucksformen überführt werden?
+
+		- [ ] TRAVEL CINEMATOGRAPHY #TravelCinematography 
 			- [ ] **DER WEG** - RHODOS24 (NOSTOS)
 			- [ ] DER WEG - ATHENS24 (AESTHETICS OF CRISIS)
 			- [ ] DER WEG - BERLIN20-24 (PATHS OF HISTORY)
 			- [ ] DER WEG - HAMBURG24 (THERIVER)
 			- [ ] DER WEG - DANZIG24 (ALTE WERFT)
 			- [ ] DER WEG - BRUNSBERG23 (NATURE)
-			- [ ] TRAVEL CINEMATOGRAPHY #TravelCinematography 
 
 
-- [ ] **EPISODE ELEVEN - BERLIN - SCHINKEL**
+- [ ] **EPISODE X - BERLIN - SCHINKEL**
     - [ ]  [[REGISSEUR/BERLIN24 - ARCHITECTURAL PROJECTIONS\|BERLIN24 - ARCHITECTURAL PROJECTIONS]] 
         - Eine Reflexion über das eigene künstlerische Schaffen und den Einfluss auf zukünftige Generationen.
         - Diese Episode ist eine Hommage an den großen Architekten Karl Friedrich Schinkel und seine visionäre Architektur. Sie wird Schinkels Einfluss auf die moderne Stadtgestaltung Berlins und die Verbindung zwischen klassischer Architektur und gegenwärtigem künstlerischem Schaffen beleuchten. Im Mittelpunkt steht die Frage: Wie beeinflusst unsere Wahrnehmung von Räumen und Bauwerken unser kreatives Selbstverständnis? Schinkel wird als Symbol für eine künstlerische Reflexion betrachtet, die über Generationen hinweg wirkt und Zukunftsprojektionen für die Kreativität ermöglicht.
