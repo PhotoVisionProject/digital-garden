@@ -114,9 +114,9 @@ View all Episodes of "ENDLESS LOOP" on my YouTube Channel: [ENDLESS LOOP PLAYLIS
 		- Eine visuelle und narrative Reflexion darüber, wie unsere Umgebung, Erlebnisse und inneren Impulse kreative Schübe auslösen können. Der Akt des „Seins in der Welt“ wird als dynamischer Prozess betrachtet, der durch Erfahrungen und emotionale Resonanzen beeinflusst wird.
 	- [ ] **SCENE THREE:** [[CREATIVE SPACES/VLOG/Zwischenräume - Eine Suche nach Resonanz\|Zwischenräume - Eine Suche nach Resonanz]]
 		- Zwischen den kreativen Schritten entstehen „Zwischenräume“, Momente der Stille und Reflexion, die wiederum neue Impulse setzen. Diese Szene untersucht, wie diese Pausen selbst Teil des kreativen Flusses werden und Raum für neue Ideen schaffen.
-	- [ ] **ANGIE:** [[ANGIE - TOKINA 28-70mm 2.6-2.8 Angenieux
-	- [ ] **NIKON STORY:** [[REGISSEUR/THE ORIGINS OF IMAGES - NIKON STORY\|THE ORIGINS OF IMAGES - NIKON STORY]]
-	- [ ] **IKONGRAPH - STORYTELLER:** [[IDENTITIES/Vom Ikonographen zum Storyteller\|Vom Ikonographen zum Storyteller]]
+	- [ ] **ANGIE:** [[PROJECTS/VISIONLAB/ANGIE - TOKINA 28-70mm 2.6-2.8 Angenieux\|ANGIE - TOKINA 28-70mm 2.6-2.8 Angenieux]] - #ANGIE
+	- [ ] **NIKON STORY:** [[REGISSEUR/THE ORIGINS OF IMAGES - NIKON STORY\|THE ORIGINS OF IMAGES - NIKON STORY]] - #NIKONSTORY 
+	- [ ] **IKONGRAPH - STORYTELLER:** [[IDENTITIES/Vom Ikonographen zum Storyteller\|Vom Ikonographen zum Storyteller]]  - #Ikonograph 
 
 
 - [/] **EPISODE ELEVEN - "DAS BILD DES WEGES"
